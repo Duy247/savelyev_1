@@ -20,10 +20,7 @@
 %\usepackage[p,osf,swashQ,sups]{cochineal}
 \usepackage[varqu,varl,var0]{inconsolata}
 \usepackage[scale=.95,type1]{cabin}
-
-
-
-\usepackage[slantedGreek]{newtxmath}%cochineal,vvarbb,
+\usepackage[cochineal,vvarbb,slantedGreek]{newtxmath}
 % Other possibilities for slanted greeks https://ctan.math.ca/tex-archive/fonts/newtx/doc/newtxdoc.pdf
 \usepackage[cal=boondoxo]{mathalfa}
 
@@ -45,8 +42,8 @@
 \newcommand{\hatvec}[1]{\hat{\boldsymbol{#1}}}%%%% vectỏ đơn vị 2
 \newcommand{\final}{\text{final}}
 \newcommand{\inicial}{\text{inicial}}
-\newcommand{\fig}[1]{Hình.~\ref{fig:#1}}
-\newcommand{\eqn}[1]{Phương trình.~\eqref{eq:#1}}
+\newcommand{\fig}[1]{hình.~\ref{fig:#1}}
+\newcommand{\eqn}[1]{phương trình.~\eqref{eq:#1}}
 \newcommand{\sect}[1]{Mục.~\ref{sec:#1}}
 \newcommand{\tab}[1]{Bảng~\ref{table:#1}}
 \newcommand{\vecdot}[2]{\boldsymbol{#1\!\cdot\!#2}}
@@ -95,10 +92,8 @@
 \usepackage[pdftex]{graphicx}
 \usepackage{tcolorbox}
 \usepackage{mathtools}
-\usepackage{fontawesome}
-\usepackage{amsmath,amsfonts}
-\usepackage{pifont}
-%\usepackage{amssymb}  %% gây lỗi \bkbk
+\usepackage{amsmath}
+%\usepackage{amssymb}
 \numberwithin{equation}{section}
 \usepackage{eqnarray}
 \usepackage{siunitx}
@@ -107,8 +102,6 @@
 \usepackage{tikz-cd}
 \usepackage{graphicx}
 \usepackage{subcaption}
-
-
 %%%%%%%%%%%%%%%%%%%%%%%
 %\usepackage[group-separator = {,}, input-protect-tokens]{siunitx}
 \DeclareSIUnit\kgf{kgf}
@@ -245,8 +238,7 @@
 \setcounter{secnumdepth}{1}
 
 \usepackage{caption}
-%\usepackage[font={color=black!70,small,bf},figurename=Fig.]{caption}
-\usepackage[labelfont={color=black!80,footnotesize,bf}, textfont={color=black!80,small},figurename=Fig.]{caption}
+\usepackage[font={color=black!70,small,bf},figurename=Fig.]{caption}
 
 \usepackage[shortlabels]{enumitem}
 %\setlist{nosep}
@@ -298,25 +290,25 @@
 
 \frontmatter
 
-% \includepdf[scale=1.02]{figures/pgc_1_fc.pdf}
-% \cleardoublepage
-% \input{00_title}
-% \cleardoublepage
-% \input{00_preface}
-% \cleardoublepage
-% {\hypersetup{linkcolor=black!80}
-% 	% or \hypersetup{linkcolor=black}, if the colorlinks=true option of hyperref is used
-% 	\tableofcontents
-% }
-% \cleardoublepage
+\includepdf[scale=1.02]{figures/pgc_1_fc.pdf}
+\cleardoublepage
+\input{00_title}
+\cleardoublepage
+\input{00_preface}
+\cleardoublepage
+{\hypersetup{linkcolor=black!80}
+	% or \hypersetup{linkcolor=black}, if the colorlinks=true option of hyperref is used
+	\tableofcontents
+}
+\cleardoublepage
 
-% \mainmatter
+\mainmatter
 
-% \input{00_introduction}
-% \cleardoublepage
+\input{00_introduction}
+\cleardoublepage
 
-% \part{CƠ SỞ VẬT LÍ CỦA CƠ HỌC}\label{part:A}
-% \cleardoublepage
+\part{CƠ SỞ VẬT LÍ CỦA CƠ HỌC}\label{part:A}
+\cleardoublepage
 % \input{01_kinematics}
 % \cleardoublepage
 % \input{02_dynamics_point_particle}
@@ -349,13 +341,13 @@
 % \cleardoublepage
 % \input{15_phase_equilibria_and_transitions}
 % \cleardoublepage
-\input{16_physical_kinetics}
+% \input{16_physical_kinetics}
 % \cleardoublepage
-% \input{A_appendices}
-% \printindex
+\input{A_appendices}
+\printindex
 
-% \cleardoublepage
-% \includepdf{figures/pgc_1_bc.pdf}
+\cleardoublepage
+\includepdf{figures/pgc_1_bc.pdf}
 \end{document}
 
 % Local Variables:
