@@ -135,7 +135,7 @@ Bản chất việc compile thành công hay không nằm ở việc công thứ
 
 - Tiếp theo, để bổ sung recipe pdfLatex vào LaTeX Workshop, hướng tới cài đặt bên dưới
 
-![1option](https://i.imgur.com/noFWbuk.png)
+![1option](https://i.imgur.com/pGNSc0Z.png)
 
 - Sau đó, click vào `Edit in settings.json`, kéo xuống dưới cùng, bạn sẽ thấy đoạn code
 
