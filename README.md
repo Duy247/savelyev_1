@@ -1,6 +1,6 @@
 # savelyev_1
-
-Tiến độ dịch
+## Hướng dẫn vận hành
+## Tiến độ dịch
 
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -22,3 +22,24 @@ Tiến độ dịch
 |1|14|[Kane](https://www.overleaf.com/read/psvmjqtnbjpc)|Kane|Kane|Kane|Kane|Kane||   |   |   |   |   |   |   |   |||||
 |1|15|[NMK](https://www.overleaf.com/read/htyrzsmkqqqs)|NMK|NMK|NMK|NMK|NMK|NMK|NMK|NMK||   |   |   |   |   |||||
 |1|16|[Mino, Huy](https://www.overleaf.com/9332723526mnccvtbtyppw)|Huy|Mino|Huy|Mino|Mino|Mino||   |   |   |   |   |   |   |||||
+|2|1|[Mino, Pềct](https://www.overleaf.com/8854767122mhccbsvqrtxh)|Mino|Pềct|Mino|Mino|Mino|Mino|Mino|Mino|Pềct|Pềct|Pềct|Mino|Mino|Mino||~1.2|||
+|2|2|[Pềct](https://www.overleaf.com/read/xhjpphqcbnpc)|Pềct|Pềct|Pềct|Pềct|Pềct|Pềct|Pềct|Pềct|Pềct||   |   |   |   |||||
+|2|3|[Pềct](https://www.overleaf.com/read/zhvqyjpmqnbr)|Pềct|Pềct|Pềct|Pềct||   |   |   |   |   |   |   |   |   |||||
+|2|4|[Quinn](https://www.overleaf.com/read/dywrxntggyyz)|Quinn|Quinn|Quinn||   |   |   |   |   |   |   |   |   |   |||||
+|2|5|[Quinn](https://www.overleaf.com/read/dywrxntggyyz)|Quinn|Quinn|Quinn|Quinn|Quinn|Quinn|Quinn|Quinn||   |   |   |   |   |||||
+|2|6|[tum, kit](https://www.overleaf.com/read/nrcmbkftxcbr)|Tum|Tum|Tum|Tum|Tum|Tum|Tum|Tum|Tum|Tum|Tum|Tum||   |x|6.4|||
+|2|7|[tum, amysper](https://www.overleaf.com/read/yymttjxxdxjt)|||||||||||   |   |   |   |||||
+|2|8|[Zinc](https://www.overleaf.com/read/syfhthfygsmq)|Zinc|Zinc|Zinc|Zinc|Zinc|Zinc|Zinc|Zinc|Zinc||   |   |   |   |x||||
+|2|9|[yukon](https://www.overleaf.com/read/hwnmnxgtbzpb)|yukon|yukon|yukon||   |   |   |   |   |   |   |   |   |   |x||||
+|2|10|[yukon](https://www.overleaf.com/read/hwnmnxgtbzpb)|yukon|yukon|yukon|yukon|yukon||   |   |   |   |   |   |   |   |||||
+|2|11|[Mav](https://www.overleaf.com/2684298429dydfwhyxyjdv)|mav||||   |   |   |   |   |   |   |   |   |   |||||
+|2|12|[yukon](https://www.overleaf.com/read/hwnmnxgtbzpb)|yukon|yukon|yukon|yukon|yukon|yukon||||   |   |   |   |   |||||
+|2|13|[yukon](https://www.overleaf.com/read/hwnmnxgtbzpb)|yukon|yukon|yukon|yukon|yukon||   |   |   |   |   |   |   |   |||||
+|2|14|[Log](https://www.overleaf.com/read/xmhkyywwgkxb)|Log|Log|Log|Log|Log|Log|Log|Log|Log|Log|Log||   |   |||||
+|2|15|[Ivy](https://www.overleaf.com/read/rjwfgmjjxjyq)|Ivy|Ivy|Ivy|ivy|ivy|||   |   |   |   |   |   |   |||||
+|2|16|[Tre](https://www.overleaf.com/3355295464kqkcckfcqxnn)|Tre|Tre|Tre|Tre|Tre|Tre|Tre|Tre|Tre||   |   |   |   |||||
+|2|17|[Quinn](https://www.overleaf.com/read/dywrxntggyyz)||||||||   |   |   |   |   |   |   |||||
+|2|18|[chap 18](https://www.overleaf.com/read/kgykdzzxkbcr)|||||||||||   |   |   |   |||||
+|2|19|[chap 19](https://www.overleaf.com/read/ngydrpsgkcfq)||||||||||   |   |   |   |   |||||
+|2|20|[chap 20](https://www.overleaf.com/read/mjnybwmkzgzb)||||||||   |   |   |   |   |   |   |||||
+|2|21|[Pềct](https://www.overleaf.com/read/hgbfhcwtxfvn)|Pềct|Pềct|Pềct|Pềct||   |   |   |   |   |   |   |   |   |||||
