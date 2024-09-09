@@ -1,0 +1,3685 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.9)  9 SEP 2024 15:26
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**c:/Users/duy5a/Downloads/savelyev_1/book_2/saveliev_physics_general_course_2.
+tex
+
+(c:/Users/duy5a/Downloads/savelyev_1/book_2/saveliev_physics_general_course_2.t
+ex
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-08-16>
+(C:\Program Files\MiKTeX\tex/latex/base\book.cls
+Document Class: book 2024/02/08 v1.4n Standard LaTeX document class
+(C:\Program Files\MiKTeX\tex/latex/base\fleqn.clo
+File: fleqn.clo 2016/12/29 v1.2b Standard LaTeX option (flush left equations)
+\mathindent=\skip49
+Applying: [2015/01/01] Make \[ robust on input line 50.
+LaTeX Info: Redefining \[ on input line 51.
+Already applied: [0000/00/00] Make \[ robust on input line 62.
+Applying: [2015/01/01] Make \] robust on input line 74.
+LaTeX Info: Redefining \] on input line 75.
+Already applied: [0000/00/00] Make \] robust on input line 83.
+)
+(C:\Program Files\MiKTeX\tex/latex/base\bk12.clo
+File: bk12.clo 2024/02/08 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count194
+\c@chapter=\count195
+\c@section=\count196
+\c@subsection=\count197
+\c@subsubsection=\count198
+\c@paragraph=\count199
+\c@subparagraph=\count266
+\c@figure=\count267
+\c@table=\count268
+\abovecaptionskip=\skip50
+\belowcaptionskip=\skip51
+\bibindent=\dimen141
+)
+(C:\Program Files\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/latex/vntex\vietnam.sty
+Package: vietnam 2009/07/12 v1.3 support for Vietnamese
+
+(C:\Program Files\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+)
+(C:\Program Files\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/latex/vntex\t5enc.def
+File: t5enc.def 2006/11/21 v1.4 Vietnamese T5 encoding
+Now handling font encoding T5 ...
+... processing UTF-8 mapping file for font encoding T5
+
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/latex/vntex\t5enc.dfu
+File: t5enc.dfu 2006/08/19 v1.1 UTF8 support for Vietnamese
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0128 (decimal 296)
+   defining Unicode char U+0129 (decimal 297)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0168 (decimal 360)
+   defining Unicode char U+0169 (decimal 361)
+   defining Unicode char U+01A0 (decimal 416)
+   defining Unicode char U+01A1 (decimal 417)
+   defining Unicode char U+01AF (decimal 431)
+   defining Unicode char U+01B0 (decimal 432)
+   defining Unicode char U+1EA0 (decimal 7840)
+   defining Unicode char U+1EA1 (decimal 7841)
+   defining Unicode char U+1EA2 (decimal 7842)
+   defining Unicode char U+1EA3 (decimal 7843)
+   defining Unicode char U+1EA4 (decimal 7844)
+   defining Unicode char U+1EA5 (decimal 7845)
+   defining Unicode char U+1EA6 (decimal 7846)
+   defining Unicode char U+1EA7 (decimal 7847)
+   defining Unicode char U+1EA8 (decimal 7848)
+   defining Unicode char U+1EA9 (decimal 7849)
+   defining Unicode char U+1EAA (decimal 7850)
+   defining Unicode char U+1EAB (decimal 7851)
+   defining Unicode char U+1EAC (decimal 7852)
+   defining Unicode char U+1EAD (decimal 7853)
+   defining Unicode char U+1EAE (decimal 7854)
+   defining Unicode char U+1EAF (decimal 7855)
+   defining Unicode char U+1EB0 (decimal 7856)
+   defining Unicode char U+1EB1 (decimal 7857)
+   defining Unicode char U+1EB2 (decimal 7858)
+   defining Unicode char U+1EB3 (decimal 7859)
+   defining Unicode char U+1EB4 (decimal 7860)
+   defining Unicode char U+1EB5 (decimal 7861)
+   defining Unicode char U+1EB6 (decimal 7862)
+   defining Unicode char U+1EB7 (decimal 7863)
+   defining Unicode char U+1EB8 (decimal 7864)
+   defining Unicode char U+1EB9 (decimal 7865)
+   defining Unicode char U+1EBA (decimal 7866)
+   defining Unicode char U+1EBB (decimal 7867)
+   defining Unicode char U+1EBC (decimal 7868)
+   defining Unicode char U+1EBD (decimal 7869)
+   defining Unicode char U+1EBE (decimal 7870)
+   defining Unicode char U+1EBF (decimal 7871)
+   defining Unicode char U+1EC0 (decimal 7872)
+   defining Unicode char U+1EC1 (decimal 7873)
+   defining Unicode char U+1EC2 (decimal 7874)
+   defining Unicode char U+1EC3 (decimal 7875)
+   defining Unicode char U+1EC4 (decimal 7876)
+   defining Unicode char U+1EC5 (decimal 7877)
+   defining Unicode char U+1EC6 (decimal 7878)
+   defining Unicode char U+1EC7 (decimal 7879)
+   defining Unicode char U+1EC8 (decimal 7880)
+   defining Unicode char U+1EC9 (decimal 7881)
+   defining Unicode char U+1ECA (decimal 7882)
+   defining Unicode char U+1ECB (decimal 7883)
+   defining Unicode char U+1ECC (decimal 7884)
+   defining Unicode char U+1ECD (decimal 7885)
+   defining Unicode char U+1ECE (decimal 7886)
+   defining Unicode char U+1ECF (decimal 7887)
+   defining Unicode char U+1ED0 (decimal 7888)
+   defining Unicode char U+1ED1 (decimal 7889)
+   defining Unicode char U+1ED2 (decimal 7890)
+   defining Unicode char U+1ED3 (decimal 7891)
+   defining Unicode char U+1ED4 (decimal 7892)
+   defining Unicode char U+1ED5 (decimal 7893)
+   defining Unicode char U+1ED6 (decimal 7894)
+   defining Unicode char U+1ED7 (decimal 7895)
+   defining Unicode char U+1ED8 (decimal 7896)
+   defining Unicode char U+1ED9 (decimal 7897)
+   defining Unicode char U+1EDA (decimal 7898)
+   defining Unicode char U+1EDB (decimal 7899)
+   defining Unicode char U+1EDC (decimal 7900)
+   defining Unicode char U+1EDD (decimal 7901)
+   defining Unicode char U+1EDE (decimal 7902)
+   defining Unicode char U+1EDF (decimal 7903)
+   defining Unicode char U+1EE0 (decimal 7904)
+   defining Unicode char U+1EE1 (decimal 7905)
+   defining Unicode char U+1EE2 (decimal 7906)
+   defining Unicode char U+1EE3 (decimal 7907)
+   defining Unicode char U+1EE4 (decimal 7908)
+   defining Unicode char U+1EE5 (decimal 7909)
+   defining Unicode char U+1EE6 (decimal 7910)
+   defining Unicode char U+1EE7 (decimal 7911)
+   defining Unicode char U+1EE8 (decimal 7912)
+   defining Unicode char U+1EE9 (decimal 7913)
+   defining Unicode char U+1EEA (decimal 7914)
+   defining Unicode char U+1EEB (decimal 7915)
+   defining Unicode char U+1EEC (decimal 7916)
+   defining Unicode char U+1EED (decimal 7917)
+   defining Unicode char U+1EEE (decimal 7918)
+   defining Unicode char U+1EEF (decimal 7919)
+   defining Unicode char U+1EF0 (decimal 7920)
+   defining Unicode char U+1EF1 (decimal 7921)
+   defining Unicode char U+1EF2 (decimal 7922)
+   defining Unicode char U+1EF3 (decimal 7923)
+   defining Unicode char U+1EF4 (decimal 7924)
+   defining Unicode char U+1EF5 (decimal 7925)
+   defining Unicode char U+1EF6 (decimal 7926)
+   defining Unicode char U+1EF7 (decimal 7927)
+   defining Unicode char U+1EF8 (decimal 7928)
+   defining Unicode char U+1EF9 (decimal 7929)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+))
+LaTeX Font Info:    Trying to load font information for T5+cmr on input line 11
+6.
+
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/latex/vntex\t5cmr.fd
+File: t5cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+))
+(C:\Program Files\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+)
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/latex/vntex\vncaps.tex
+File: vncaps.tex 2006/06/07 v1.1 Captions in Vietnamese
+))
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/latex/microtype\microtype.sty
+Package: microtype 2024/03/29 v3.1b Micro-typographical refinements (RS)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+(C:\Program Files\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count269
+)
+\MT@toks=\toks20
+\MT@tempbox=\box52
+\MT@count=\count270
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1061.
+LaTeX Info: Redefining \leftprotrusion on input line 1062.
+\MT@prot@toks=\toks21
+LaTeX Info: Redefining \rightprotrusion on input line 1081.
+LaTeX Info: Redefining \textls on input line 1392.
+\MT@outer@kern=\dimen142
+LaTeX Info: Redefining \textmicrotypecontext on input line 2013.
+\MT@listname@count=\count271
+
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/latex/microtype\microtype-pdftex.def
+File: microtype-pdftex.def 2024/03/29 v3.1b Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 902.
+LaTeX Info: Redefining \lslig on input line 902.
+\MT@outer@space=\skip52
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+ (C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/latex/microtype\microtype.cfg
+File: microtype.cfg 2024/03/29 v3.1b microtype main configuration file (RS)
+))
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/latex/inconsolata\inconsolata.sty
+Package: inconsolata 2019/05/17 v1.12
+
+`inconsolata-zi4' v1.12, 2019/05/17 Text macros for Inconsolata (msharpe)
+(C:\Program Files\MiKTeX\tex/latex/base\textcomp.sty
+Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
+)
+(C:\Program Files\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(C:\Program Files\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Program Files\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks22
+\XKV@tempa@toks=\toks23
+)
+\XKV@depth=\count272
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+\zifour@ocount=\count273
+)
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/latex/cabin\cabin.sty
+Package: cabin 2023/09/25 (Bob Tennent) Supports Cabin fonts for all LaTeX engi
+nes.
+
+(C:\Program Files\MiKTeX\tex/generic/iftex\ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+
+(C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+(C:\Program Files\MiKTeX\tex/generic/iftex\ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+(C:\Program Files\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/latex/fontaxes\fontaxes.sty
+Package: fontaxes 2020/07/21 v1.0e Font selection axes
+LaTeX Info: Redefining \upshape on input line 29.
+LaTeX Info: Redefining \itshape on input line 31.
+LaTeX Info: Redefining \slshape on input line 33.
+LaTeX Info: Redefining \swshape on input line 35.
+LaTeX Info: Redefining \scshape on input line 37.
+LaTeX Info: Redefining \sscshape on input line 39.
+LaTeX Info: Redefining \ulcshape on input line 41.
+LaTeX Info: Redefining \textsw on input line 47.
+LaTeX Info: Redefining \textssc on input line 48.
+LaTeX Info: Redefining \textulc on input line 49.
+))
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/latex/newtx\newtxmath.sty
+Package: newtxmath 2024/07/05 v1.752
+
+`newtxmath' v1.752, 2024/07/05 Math macros based originally on txfonts (msharpe
+) (C:\Program Files\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2024/05/23 v2.17q AMS math features
+\@mathmargin=\skip53
+
+For additional information on amsmath, use the `?' option.
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks24
+\ex@=\dimen143
+))
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen144
+)
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count274
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count275
+\leftroot@=\count276
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count277
+\DOTSCASE@=\count278
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box53
+\strutbox@=\box54
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen145
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count279
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count280
+\dotsspace@=\muskip17
+\c@parentequation=\count281
+\dspbrk@lvl=\count282
+\tag@help=\toks25
+\row@=\count283
+\column@=\count284
+\maxfields@=\count285
+\andhelp@=\toks26
+\eqnshift@=\dimen146
+\alignsep@=\dimen147
+\tagshift@=\dimen148
+\tagwidth@=\dimen149
+\totwidth@=\dimen150
+\lineht@=\dimen151
+\@envbody=\toks27
+\multlinegap=\skip54
+\multlinetaggap=\skip55
+\mathdisplay@stack=\toks28
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(C:\Program Files\MiKTeX\tex/latex/oberdiek\centernot.sty
+Package: centernot 2016/05/16 v1.4 Centers the not symbol horizontally (HO)
+)
+\tx@cntz=\count286
+
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/generic/binhex\binhex.tex)
+\tx@Isdigit=\count287
+\tx@IsAlNum=\count288
+\tx@tA=\toks29
+\tx@tB=\toks30
+\tx@su=\read2
+
+amsthm NOT loaded
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 402.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/m/n on input line 402.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/cmr/m/n on input line 402.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/b/n on input line 403.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 410.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/Cabin-TLF/m/n on input line 410.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/Cabin-TLF/m/n on input line 410.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/Cabin-TLF/m/n --> OT1/Cabin-TLF/b/n on input line 4
+12.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 419.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/cmr/m/it on input line 419.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/cmr/m/it on input line 419.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 420.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> T5/zi4/m/n on input line 420.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> T5/zi4/m/n on input line 420.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 422.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/cmr/b/n on input line 422.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/cmr/b/n on input line 422.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/m/it --> OT1/cmr/b/it on input line 423.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  T5/zi4/m/n --> T5/zi4/b/n on input line 426.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 480.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/zcochmi/m/it on input line 480.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/zcochmi/m/it on input line 480.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/zcochmi/m/it --> OML/zcochmi/b/it on input line 481
+.
+\symlettersA=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lettersA' in version `bold'
+(Font)                  U/ntxmia/m/it --> U/ntxmia/b/it on input line 582.
+Now handling font encoding LMS ...
+... no UTF-8 mapping file for font encoding LMS
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 604.
+LaTeX Font Info:    Encoding `OMS' has changed to `LMS' for symbol font
+(Font)              `symbols' in the math version `normal' on input line 604.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> LMS/ntxsy/m/n on input line 604.
+LaTeX Font Info:    Encoding `OMS' has changed to `LMS' for symbol font
+(Font)              `symbols' in the math version `bold' on input line 604.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> LMS/ntxsy/m/n on input line 604.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  LMS/ntxsy/m/n --> LMS/ntxsy/b/n on input line 605.
+\symAMSm=\mathgroup5
+LaTeX Font Info:    Overwriting symbol font `AMSm' in version `bold'
+(Font)                  U/ntxsym/m/n --> U/ntxsym/b/n on input line 630.
+\symsymbolsC=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `symbolsC' in version `bold'
+(Font)                  U/ntxsyc/m/n --> U/ntxsyc/b/n on input line 651.
+Now handling font encoding LMX ...
+... no UTF-8 mapping file for font encoding LMX
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 664.
+LaTeX Font Info:    Encoding `OMX' has changed to `LMX' for symbol font
+(Font)              `largesymbols' in the math version `normal' on input line 6
+64.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> LMX/ntxexx/m/n on input line 664.
+LaTeX Font Info:    Encoding `OMX' has changed to `LMX' for symbol font
+(Font)              `largesymbols' in the math version `bold' on input line 664
+.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> LMX/ntxexx/m/n on input line 664.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  LMX/ntxexx/m/n --> LMX/ntxexx/b/n on input line 665.
+\symlargesymbolsTXA=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `largesymbolsTXA' in version `bold'
+
+(Font)                  U/ntxexa/m/n --> U/ntxexa/b/n on input line 679.
+\tx@sbptoks=\toks31
+LaTeX Font Info:    Redeclaring math delimiter \lfloor on input line 902.
+LaTeX Font Info:    Redeclaring math delimiter \rfloor on input line 903.
+LaTeX Font Info:    Redeclaring math delimiter \lceil on input line 904.
+LaTeX Font Info:    Redeclaring math delimiter \rceil on input line 905.
+LaTeX Font Info:    Redeclaring math delimiter \lbrace on input line 910.
+LaTeX Font Info:    Redeclaring math delimiter \rbrace on input line 911.
+LaTeX Font Info:    Redeclaring math delimiter \langle on input line 913.
+LaTeX Font Info:    Redeclaring math delimiter \rangle on input line 915.
+LaTeX Font Info:    Redeclaring math delimiter \arrowvert on input line 919.
+LaTeX Font Info:    Redeclaring math delimiter \vert on input line 920.
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 966.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 991.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 992.
+LaTeX Font Info:    Redeclaring math accent \vec on input line 2057.
+LaTeX Info: Redefining \Bbbk on input line 2847.
+LaTeX Info: Redefining \not on input line 2995.
+) (C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/latex/mathalpha\mathalfa.sty)
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/latex/mathalpha\mathalpha.sty
+Package: mathalpha 2021/11/18 - 1.143mathalpha (License LPPL) Michael Sharpe
+
+`mathalpha' v1.143, 2021/11/18, a renaming of mathalfa (msharpe)
+LaTeX Font Info:    Redeclaring math alphabet \mathcal on input line 554.
+LaTeX Font Info:    Overwriting math alphabet `\mathcal' in version `bold'
+(Font)                  U/BOONDOX-calo/m/n --> U/BOONDOX-calo/b/n on input line
+ 556.
+)
+(C:\Program Files\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+
+(C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+)
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Program Files\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count289
+\Gm@cntv=\count290
+\c@Gm@tempcnt=\count291
+\Gm@bindingoffset=\dimen152
+\Gm@wd@mp=\dimen153
+\Gm@odd@mp=\dimen154
+\Gm@even@mp=\dimen155
+\Gm@layoutwidth=\dimen156
+\Gm@layoutheight=\dimen157
+\Gm@layouthoffset=\dimen158
+\Gm@layoutvoffset=\dimen159
+\Gm@dimlist=\toks32
+
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen160
+\lightrulewidth=\dimen161
+\cmidrulewidth=\dimen162
+\belowrulesep=\dimen163
+\belowbottomsep=\dimen164
+\aboverulesep=\dimen165
+\abovetopsep=\dimen166
+\cmidrulesep=\dimen167
+\cmidrulekern=\dimen168
+\defaultaddspace=\dimen169
+\@cmidla=\count292
+\@cmidlb=\count293
+\@aboverulesep=\dimen170
+\@belowrulesep=\dimen171
+\@thisruleclass=\count294
+\@lastruleclass=\count295
+\@thisrulewidth=\dimen172
+)
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/latex/threeparttable\threeparttable.
+sty
+Package: threeparttable 2003/06/13  v 3.0
+\@tempboxb=\box55
+) (C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip56
+\multirow@cntb=\count296
+\multirow@dima=\skip57
+\bigstrutjot=\dimen173
+)
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/latex/mhchem\mhchem.sty
+Package: mhchem 2024/01/29 v4.10 for typesetting chemical formulae
+
+(C:\Program Files\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2024-08-16 L3 programming layer (loader) 
+
+(C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count297
+\l__pdf_internal_box=\box56
+))
+(C:\Program Files\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty
+Package: l3keys2e 2024-08-16 LaTeX2e option processing using LaTeX3 keys
+)
+(C:\Program Files\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count298
+\calc@Bcount=\count299
+\calc@Adimen=\dimen174
+\calc@Bdimen=\dimen175
+\calc@Askip=\skip58
+\calc@Bskip=\skip59
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count300
+\calc@Cskip=\skip60
+)
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/latex/chemgreek\chemgreek.sty
+(C:\Program Files\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
+Package: xparse 2024-08-16 L3 Experimental document command parser
+)
+Package: chemgreek 2020/01/16 v1.1a interface for upright Greek letters for use
+ in chemistry (CN)
+\l__chemgreek_tmpa_int=\count301
+\g__chemgreek_tmpa_int=\count302
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2024/05/23 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+)
+\l__mhchem_ce_distanceFromLastComma_int=\count303
+\__mhchem_arrow_extPgfLength_skip=\skip61
+\mhchem@minispace@tmp=\skip62
+\mhchem@minibackspace@tmp=\skip63
+\mhchem@bondwidth=\skip64
+\mhchem@bondheight=\skip65
+\mhchem@smallbondwidth@tmpA=\skip66
+\mhchem@smallbondwidth@tmpB=\skip67
+\mhchem@smallbondwidth=\skip68
+\mhchem@bondtmp@minussidebearingleft=\skip69
+\mhchem@bondtmp@minussidebearingright=\skip70
+\l__mhchem_option_version_int=\count304
+\mhchem@option@minusmathsidebearingleft=\dimen176
+\mhchem@option@minusmathsidebearingright=\dimen177
+\mhchem@option@minustextsidebearingleft=\dimen178
+\mhchem@option@minustextsidebearingright=\dimen179
+)
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/latex/tikz-cd\tikz-cd.sty
+Package: tikz-cd 2021/05/04 v1.0 Commutative diagrams with TikZ
+
+(C:\Program Files\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty
+(C:\Program Files\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+(C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
+\pgfutil@everybye=\toks33
+\pgfutil@tempdima=\dimen180
+\pgfutil@tempdimb=\dimen181
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
+\pgfutil@abb=\box57
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Program Files\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty
+(C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+\Gin@req@height=\dimen182
+\Gin@req@width=\dimen183
+)
+(C:\Program Files\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty
+(C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks34
+\pgfkeys@temptoks=\toks35
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeyslibraryfiltered.code.
+tex
+\pgfkeys@tmptoks=\toks36
+))
+\pgf@x=\dimen184
+\pgf@y=\dimen185
+\pgf@xa=\dimen186
+\pgf@ya=\dimen187
+\pgf@xb=\dimen188
+\pgf@yb=\dimen189
+\pgf@xc=\dimen190
+\pgf@yc=\dimen191
+\pgf@xd=\dimen192
+\pgf@yd=\dimen193
+\w@pgf@writea=\write3
+\r@pgf@reada=\read3
+\c@pgf@counta=\count305
+\c@pgf@countb=\count306
+\c@pgf@countc=\count307
+\c@pgf@countd=\count308
+\t@pgf@toka=\toks37
+\t@pgf@tokb=\toks38
+\t@pgf@tokc=\toks39
+\pgf@sys@id@count=\count309
+ (C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count310
+\pgfsyssoftpath@bigbuffer@items=\count311
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
+\pgfmath@dimen=\dimen194
+\pgfmath@count=\count312
+\pgfmath@box=\box58
+\pgfmath@toks=\toks40
+\pgfmath@stack@operand=\toks41
+\pgfmath@stack@operation=\toks42
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.co
+de.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex)
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.
+tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmeti
+cs.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex
+) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count313
+))
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfint.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen195
+\pgf@picmaxx=\dimen196
+\pgf@picminy=\dimen197
+\pgf@picmaxy=\dimen198
+\pgf@pathminx=\dimen199
+\pgf@pathmaxx=\dimen256
+\pgf@pathminy=\dimen257
+\pgf@pathmaxy=\dimen258
+\pgf@xx=\dimen259
+\pgf@xy=\dimen260
+\pgf@yx=\dimen261
+\pgf@yy=\dimen262
+\pgf@zx=\dimen263
+\pgf@zy=\dimen264
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.t
+ex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen265
+\pgf@path@lasty=\dimen266
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen267
+\pgf@shorten@start@additional=\dimen268
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box59
+\pgf@hbox=\box60
+\pgf@layerbox@main=\box61
+\pgf@picture@serial@count=\count314
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.te
+x
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen269
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.code
+.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen270
+\pgf@pt@y=\dimen271
+\pgf@pt@temp=\dimen272
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.
+tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen273
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen274
+\pgf@sys@shading@range@num=\count315
+\pgf@shadingcount=\count316
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box62
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.te
+x
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box63
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Program Files\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen275
+\pgf@nodesepend=\dimen276
+)
+(C:\Program Files\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+)) (C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgffor.sty
+(C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex))
+(C:\Program Files\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex))
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen277
+\pgffor@skip=\dimen278
+\pgffor@stack=\toks43
+\pgffor@toks=\toks44
+))
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.
+tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count317
+\pgfplotmarksize=\dimen279
+)
+\tikz@lastx=\dimen280
+\tikz@lasty=\dimen281
+\tikz@lastxsaved=\dimen282
+\tikz@lastysaved=\dimen283
+\tikz@lastmovetox=\dimen284
+\tikz@lastmovetoy=\dimen285
+\tikzleveldistance=\dimen286
+\tikzsiblingdistance=\dimen287
+\tikz@figbox=\box64
+\tikz@figbox@bg=\box65
+\tikz@tempbox=\box66
+\tikz@tempbox@bg=\box67
+\tikztreelevel=\count318
+\tikznumberofchildren=\count319
+\tikznumberofcurrentchild=\count320
+\tikz@fig@count=\count321
+ (C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count322
+\pgfmatrixcurrentcolumn=\count323
+\pgf@matrix@numberofcolumns=\count324
+)
+\tikz@expandcount=\count325
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
+rytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/latex/tikz-cd\tikzlibrarycd.code.tex
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
+rymatrix.code.tex
+File: tikzlibrarymatrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
+ryquotes.code.tex
+File: tikzlibraryquotes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/libraries\pgflibraryarrows.meta.code.t
+ex
+File: pgflibraryarrows.meta.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowinset=\dimen288
+\pgfarrowlength=\dimen289
+\pgfarrowwidth=\dimen290
+\pgfarrowlinewidth=\dimen291
+))) (C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen292
+\captionmargin=\dimen293
+\caption@leftmargin=\dimen294
+\caption@rightmargin=\dimen295
+\caption@width=\dimen296
+\caption@indent=\dimen297
+\caption@parindent=\dimen298
+\caption@hangindent=\dimen299
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count326
+\c@continuedfloat=\count327
+Package caption Info: threeparttable package is loaded.
+)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count328
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count329
+)
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/latex/siunitx\siunitx.sty
+Package: siunitx 2024-08-20 v3.3.21 A comprehensive (SI) units package
+\l__siunitx_number_uncert_offset_int=\count330
+\l__siunitx_number_exponent_fixed_int=\count331
+\l__siunitx_number_min_decimal_int=\count332
+\l__siunitx_number_min_integer_int=\count333
+\l__siunitx_number_round_precision_int=\count334
+\l__siunitx_number_lower_threshold_int=\count335
+\l__siunitx_number_upper_threshold_int=\count336
+\l__siunitx_number_group_first_int=\count337
+\l__siunitx_number_group_size_int=\count338
+\l__siunitx_number_group_minimum_int=\count339
+\l__siunitx_angle_tmp_dim=\dimen300
+\l__siunitx_angle_marker_box=\box68
+\l__siunitx_angle_unit_box=\box69
+\l__siunitx_compound_count_int=\count340
+
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/latex/translations\translations.sty
+Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages
+ (CN)
+
+(C:\Program Files\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+))
+\l__siunitx_table_tmp_box=\box70
+\l__siunitx_table_tmp_dim=\dimen301
+\l__siunitx_table_column_width_dim=\dimen302
+\l__siunitx_table_integer_box=\box71
+\l__siunitx_table_decimal_box=\box72
+\l__siunitx_table_uncert_box=\box73
+\l__siunitx_table_before_box=\box74
+\l__siunitx_table_after_box=\box75
+\l__siunitx_table_before_dim=\dimen303
+\l__siunitx_table_carry_dim=\dimen304
+\l__siunitx_unit_tmp_int=\count341
+\l__siunitx_unit_position_int=\count342
+\l__siunitx_unit_total_int=\count343
+
+
+Package siunitx Warning: Option "input-protect-tokens" has been removed in
+(siunitx)                this release.
+
+(C:\Program Files\MiKTeX\tex/latex/tools\array.sty
+Package: array 2024/06/14 v2.6d Tabular extension package (FMi)
+\col@sep=\dimen305
+\ar@mcellbox=\box76
+\extrarowheight=\dimen306
+\NC@list=\toks45
+\extratabsurround=\skip71
+\backup@length=\skip72
+\ar@cellbox=\box77
+))
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/latex/units\nicefrac.sty
+Package: nicefrac 1998/08/04 v0.9b Nice fractions
+\L@UnitsRaiseDisplaystyle=\skip73
+\L@UnitsRaiseTextstyle=\skip74
+\L@UnitsRaiseScriptstyle=\skip75
+)
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/generic/soul\soul.sty
+Package: soul 2023-06-14 v3.1 Permit use of UTF-8 characters in soul (HO)
+
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/generic/soul\soul-ori.sty
+Package: soul-ori 2023-06-14 v3.1 letterspacing/underlining (mf)
+\SOUL@word=\toks46
+\SOUL@lasttoken=\toks47
+\SOUL@syllable=\toks48
+\SOUL@cmds=\toks49
+\SOUL@buffer=\toks50
+\SOUL@token=\toks51
+\SOUL@syllgoal=\dimen307
+\SOUL@syllwidth=\dimen308
+\SOUL@charkern=\dimen309
+\SOUL@hyphkern=\dimen310
+\SOUL@dimen=\dimen311
+\SOUL@dimeni=\dimen312
+\SOUL@minus=\count344
+\SOUL@comma=\count345
+\SOUL@apo=\count346
+\SOUL@grave=\count347
+\SOUL@spaceskip=\skip76
+\SOUL@ttwidth=\dimen313
+\SOUL@uldp=\dimen314
+\SOUL@ulht=\dimen315
+)
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+))
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2024/07/23 v4.3.1 Extensive control of page headers and foote
+rs
+\f@nch@headwidth=\skip77
+\f@nch@O@elh=\skip78
+\f@nch@O@erh=\skip79
+\f@nch@O@olh=\skip80
+\f@nch@O@orh=\skip81
+\f@nch@O@elf=\skip82
+\f@nch@O@erf=\skip83
+\f@nch@O@olf=\skip84
+\f@nch@O@orf=\skip85
+)
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2023/10/27 v2.16 Sectioning titles
+\ttl@box=\box78
+\beforetitleunit=\skip86
+\aftertitleunit=\skip87
+\ttl@plus=\dimen316
+\ttl@minus=\dimen317
+\ttl@toksa=\toks52
+\titlewidth=\dimen318
+\titlewidthlast=\dimen319
+\titlewidthfirst=\dimen320
+)
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/latex/tocloft\tocloft.sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 51.
+\cftparskip=\skip88
+\cftbeforetoctitleskip=\skip89
+\cftaftertoctitleskip=\skip90
+\cftbeforepartskip=\skip91
+\cftpartnumwidth=\skip92
+\cftpartindent=\skip93
+\cftbeforechapskip=\skip94
+\cftchapindent=\skip95
+\cftchapnumwidth=\skip96
+\cftbeforesecskip=\skip97
+\cftsecindent=\skip98
+\cftsecnumwidth=\skip99
+\cftbeforesubsecskip=\skip100
+\cftsubsecindent=\skip101
+\cftsubsecnumwidth=\skip102
+\cftbeforesubsubsecskip=\skip103
+\cftsubsubsecindent=\skip104
+\cftsubsubsecnumwidth=\skip105
+\cftbeforeparaskip=\skip106
+\cftparaindent=\skip107
+\cftparanumwidth=\skip108
+\cftbeforesubparaskip=\skip109
+\cftsubparaindent=\skip110
+\cftsubparanumwidth=\skip111
+\cftbeforeloftitleskip=\skip112
+\cftafterloftitleskip=\skip113
+\cftbeforefigskip=\skip114
+\cftfigindent=\skip115
+\cftfignumwidth=\skip116
+\c@lofdepth=\count348
+\c@lotdepth=\count349
+\cftbeforelottitleskip=\skip117
+\cftafterlottitleskip=\skip118
+\cftbeforetabskip=\skip119
+\cfttabindent=\skip120
+\cfttabnumwidth=\skip121
+)
+\mylenprt=\skip122
+\mylenchp=\skip123
+Package caption Info: Option `figurename' requires the `newfloat' package on in
+put line 257.
+
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/latex/newfloat\newfloat.sty
+Package: newfloat 2023/10/01 v1.2 Defining new floating environments (AR)
+Package newfloat Info: Document class `book' detected (original).
+)
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip124
+\enit@outerparindent=\dimen321
+\enit@toks=\toks53
+\enit@inbox=\box79
+\enit@count@id=\count350
+\enitdp@description=\count351
+)
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/latex/imakeidx\imakeidx.sty
+Package: imakeidx 2016/10/15 v1.3e Package for typesetting indices in a synchro
+nous mode
+
+(C:\Program Files\MiKTeX\tex/latex/tools\multicol.sty
+Package: multicol 2024/05/23 v1.9h multicolumn formatting (FMi)
+\c@tracingmulticols=\count352
+\mult@box=\box80
+\multicol@leftmargin=\dimen322
+\c@unbalance=\count353
+\c@collectmore=\count354
+\doublecol@number=\count355
+\multicoltolerance=\count356
+\multicolpretolerance=\count357
+\full@width=\dimen323
+\page@free=\dimen324
+\premulticols=\dimen325
+\postmulticols=\dimen326
+\multicolsep=\skip125
+\multicolbaselineskip=\skip126
+\partial@page=\box81
+\last@line=\box82
+\mc@boxedresult=\box83
+\maxbalancingoverflow=\dimen327
+\mult@rightbox=\box84
+\mult@grightbox=\box85
+\mult@firstbox=\box86
+\mult@gfirstbox=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\@tempa=\box102
+\@tempa=\box103
+\@tempa=\box104
+\@tempa=\box105
+\@tempa=\box106
+\@tempa=\box107
+\@tempa=\box108
+\@tempa=\box109
+\@tempa=\box110
+\@tempa=\box111
+\@tempa=\box112
+\@tempa=\box113
+\@tempa=\box114
+\@tempa=\box115
+\@tempa=\box116
+\@tempa=\box117
+\@tempa=\box118
+\@tempa=\box119
+\@tempa=\box120
+\@tempa=\box121
+\@tempa=\box122
+\@tempa=\box123
+\c@minrows=\count358
+\c@columnbadness=\count359
+\c@finalcolumnbadness=\count360
+\last@try=\dimen328
+\multicolovershoot=\dimen329
+\multicolundershoot=\dimen330
+\mult@nat@firstbox=\box124
+\colbreak@box=\box125
+\mc@col@check@num=\count361
+))
+\saveliev_physics_general_course_2@idxfile=\write4
+\openout4 = `saveliev_physics_general_course_2.idx'.
+
+
+Writing index file saveliev_physics_general_course_2.idx
+(C:\Program Files\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2024-07-10 v7.01j Hypertext links for LaTeX
+
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.st
+y
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/generic/pdfescape\pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Program Files\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/generic/gettitlestring\gettitlestrin
+g.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+ (C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count362
+) (C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/generic/stringenc\stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\@linkdim=\dimen331
+\Hy@linkcounter=\count363
+\Hy@pagecounter=\count364
+
+(C:\Program Files\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2024-07-10 v7.01j Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count365
+
+(C:\Program Files\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2024-07-10 v7.01j Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 4040.
+Package hyperref Info: Hyper figures OFF on input line 4157.
+Package hyperref Info: Link nesting OFF on input line 4162.
+Package hyperref Info: Hyper index ON on input line 4165.
+Package hyperref Info: Plain pages OFF on input line 4172.
+Package hyperref Info: Backreferencing OFF on input line 4177.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4424.
+\c@Hy@tempcnt=\count366
+
+(C:\Program Files\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip18
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4763.
+\XeTeXLinkMargin=\dimen332
+
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count367
+\Field@Width=\dimen333
+\Fld@charsize=\dimen334
+Package hyperref Info: Hyper figures OFF on input line 6042.
+Package hyperref Info: Link nesting OFF on input line 6047.
+Package hyperref Info: Hyper index ON on input line 6050.
+Package hyperref Info: backreferencing OFF on input line 6057.
+Package hyperref Info: Link coloring ON on input line 6060.
+Package hyperref Info: Link coloring with OCG OFF on input line 6067.
+Package hyperref Info: PDF/A mode OFF on input line 6072.
+
+(C:\Program Files\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count368
+\c@Item=\count369
+\c@Hfootnote=\count370
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(C:\Program Files\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2024-07-10 v7.01j Hyperref driver for pdfTeX
+
+(C:\Program Files\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count371
+\c@bookmark@seq@number=\count372
+
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.
+sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/generic/uniquecounter\uniquecounter.
+sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip127
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 270.
+ (C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/latex/emptypage\emptypage.sty
+Package: emptypage 2010/05/30 v1.2 Suppress page numbers and headings on empty 
+pages
+) (C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/latex/pdfpages\pdfpages.sty
+Package: pdfpages 2024/05/29 v0.6a Insert pages of external PDF documents (AM)
+
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/latex/eso-pic\eso-pic.sty
+Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
+\ESO@tempdima=\dimen335
+\ESO@tempdimb=\dimen336
+)
+\AM@pagewidth=\dimen337
+\AM@pageheight=\dimen338
+\AM@fboxrule=\dimen339
+
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/latex/pdfpages\pppdftex.def
+File: pppdftex.def 2024/05/29 v0.6a Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count373
+\AM@pagebox=\box126
+\AM@global@opts=\toks54
+\AM@pagecnt=\count374
+\AM@toc@title=\toks55
+\AM@lof@heading=\toks56
+\c@AM@survey=\count375
+\AM@templatesizebox=\box127
+)
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/latex/chngcntr\chngcntr.sty
+Package: chngcntr 2018/04/09 v1.1a change counter resetting
+Package chngcntr Info: \counterwithout already defined.
+(chngcntr)             Quitting chngcntr on input line 21.
+)
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/latex/frankenstein\dialogue.sty
+Package: dialogue 1999/03/01 v1.1 dialogue environment (Frankenstein's mouth)
+
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/latex/frankenstein\blkcntrl.sty
+Package: blkcntrl 2001/08/31 v1.2 block control
+
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/latex/frankenstein\moredefs.sty
+Package: moredefs 2001/08/31 v1.8 more defining commands (Frankenstein's brain)
+
+\sc@toks@a=\toks57
+\sc@toks@b=\toks58
+)
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/latex/relsize\relsize.sty
+Package: relsize 2013/03/29 ver 4.1
+)))
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/latex/frankenstein\lips.sty
+Package: lips 2001/08/31 v2.1 Chicago Manual text ellipses (Frankenstein's lips
+)
+)
+Package translations Info: No language package found. I am going to use `englis
+h' as default language. on input line 288.
+
+No file saveliev_physics_general_course_2.aux.
+\openout1 = `saveliev_physics_general_course_2.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/zcochmi/m/it on input line 288.
+LaTeX Font Info:    Trying to load font information for OML+zcochmi on input li
+ne 288.
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/latex/cochineal\omlzcochmi.fd
+File: omlzcochmi.fd 2024/03/06 Fontinst v1.933 font definitions for OML/zcochmi
+.
+)
+LaTeX Font Info:    ... okay on input line 288.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 288.
+LaTeX Font Info:    ... okay on input line 288.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 288.
+LaTeX Font Info:    ... okay on input line 288.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 288.
+LaTeX Font Info:    ... okay on input line 288.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 288.
+LaTeX Font Info:    ... okay on input line 288.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 288.
+LaTeX Font Info:    ... okay on input line 288.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 288.
+LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 
+288.
+
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/latex/newtx\untxexa.fd
+File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
+)
+LaTeX Font Info:    ... okay on input line 288.
+LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 288.
+LaTeX Font Info:    ... okay on input line 288.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 288.
+LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line
+ 288.
+
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/latex/newtx\lmsntxsy.fd
+File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
+)
+LaTeX Font Info:    ... okay on input line 288.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 288.
+LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input lin
+e 288.
+
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/latex/newtx\lmxntxexx.fd
+File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
+)
+LaTeX Font Info:    ... okay on input line 288.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 288.
+LaTeX Font Info:    ... okay on input line 288.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 288.
+LaTeX Font Info:    ... okay on input line 288.
+LaTeX Info: Redefining \microtypecontext on input line 288.
+Package microtype Info: Applying patch `item' on input line 288.
+Package microtype Info: Applying patch `toc' on input line 288.
+Package microtype Info: Applying patch `eqnum' on input line 288.
+Package microtype Info: Applying patch `footnote' on input line 288.
+Package microtype Info: Applying patch `verbatim' on input line 288.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+LaTeX Info: Redefining \showhyphens on input line 288.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/latex/microtype\mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/latex/upquote\upquote.sty
+Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
+tim
+)
+\c@mv@tabular=\count376
+\c@mv@boldtabular=\count377
+LaTeX Info: Command `\dddot' is already robust on input line 288.
+LaTeX Info: Command `\ddddot' is already robust on input line 288.
+
+(C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count378
+\scratchdimen=\dimen340
+\scratchbox=\box128
+\nofMPsegments=\count379
+\nofMParguments=\count380
+\everyMPshowfont=\toks59
+\MPscratchCnt=\count381
+\MPscratchDim=\dimen341
+\MPnumerator=\count382
+\makeMPintoPDFobject=\count383
+\everyMPtoPDFconversion=\toks60
+) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a5paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside heightrounded 
+* h-part:(L,W,R)=(45.52458pt, 349.9689pt, 25.6073pt)
+* v-part:(T,H,B)=(42.67912pt, 526.376pt, 28.45274pt)
+* \paperwidth=421.10078pt
+* \paperheight=597.50787pt
+* \textwidth=349.9689pt
+* \textheight=519.5pt
+* \oddsidemargin=-26.7454pt
+* \evensidemargin=-46.66269pt
+* \topmargin=-61.46466pt
+* \headheight=12.0pt
+* \headsep=19.8738pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=50.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+Package chemgreek Info: Activating mapping `newtx' on line 288.
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/latex/translations/dicts\translation
+s-basic-dictionary-english.trsl
+File: translations-basic-dictionary-english.trsl (english translation file `tra
+nslations-basic-dictionary')
+)
+Package translations Info: loading dictionary `translations-basic-dictionary' f
+or `english'. on input line 288.
+Package hyperref Info: Link coloring ON on input line 288.
+\@outlinefile=\write5
+\openout5 = `saveliev_physics_general_course_2.out'.
+
+
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/latex/pdflscape\pdflscape.sty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/latex/pdflscape\pdflscape-nometadata
+.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PD
+F (HO)
+ (C:\Program Files\MiKTeX\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+))
+<figures/pgc_2_fc.pdf, id=6, 421.10078pt x 597.50786pt>
+File: figures/pgc_2_fc.pdf Graphic file (type pdf)
+<use figures/pgc_2_fc.pdf>
+Package pdftex.def Info: figures/pgc_2_fc.pdf  used on input line 298.
+(pdftex.def)             Requested size: 421.09975pt x 597.5064pt.
+File: figures/pgc_2_fc.pdf Graphic file (type pdf)
+<use figures/pgc_2_fc.pdf>
+Package pdftex.def Info: figures/pgc_2_fc.pdf  used on input line 298.
+(pdftex.def)             Requested size: 421.09975pt x 597.5064pt.
+<figures/pgc_2_fc.pdf, id=9, page=1, 421.10078pt x 597.50786pt>
+File: figures/pgc_2_fc.pdf Graphic file (type pdf)
+<use figures/pgc_2_fc.pdf, page 1>
+Package pdftex.def Info: figures/pgc_2_fc.pdf , page1 used on input line 298.
+(pdftex.def)             Requested size: 421.09975pt x 597.5064pt.
+File: figures/pgc_2_fc.pdf Graphic file (type pdf)
+<use figures/pgc_2_fc.pdf, page 1>
+Package pdftex.def Info: figures/pgc_2_fc.pdf , page1 used on input line 298.
+(pdftex.def)             Requested size: 421.19612pt x 597.64314pt.
+File: figures/pgc_2_fc.pdf Graphic file (type pdf)
+<use figures/pgc_2_fc.pdf, page 1>
+Package pdftex.def Info: figures/pgc_2_fc.pdf , page1 used on input line 298.
+(pdftex.def)             Requested size: 421.19612pt x 597.64314pt.
+File: figures/pgc_2_fc.pdf Graphic file (type pdf)
+<use figures/pgc_2_fc.pdf, page 1>
+Package pdftex.def Info: figures/pgc_2_fc.pdf , page1 used on input line 298.
+(pdftex.def)             Requested size: 421.19612pt x 597.64314pt.
+
+
+File: figures/pgc_2_fc.pdf Graphic file (type pdf)
+<use figures/pgc_2_fc.pdf, page 1>
+Package pdftex.def Info: figures/pgc_2_fc.pdf , page1 used on input line 298.
+(pdftex.def)             Requested size: 421.19612pt x 597.64314pt.
+[1
+
+
+
+ <./figures/pgc_2_fc.pdf>]
+
+[2
+
+] (00_title.tex
+<figures/mirlogo.pdf, id=24, 314.37184pt x 365.51457pt>
+File: figures/mirlogo.pdf Graphic file (type pdf)
+<use figures/mirlogo.pdf>
+Package pdftex.def Info: figures/mirlogo.pdf  used on input line 46.
+(pdftex.def)             Requested size: 34.99902pt x 40.69194pt.
+
+
+[3{C:/Users/duy5a/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./figures/
+mirlogo.pdf>])
+
+[4
+
+] (00_preface.tex)
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[5
+
+
+]
+
+[6
+
+]
+No file saveliev_physics_general_course_2.toc.
+\tf@toc=\write6
+\openout6 = `saveliev_physics_general_course_2.toc'.
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[7
+
+]
+
+[8
+
+]
+
+[1
+
+
+]
+
+[2] (01_electric_field_in_a_vacuum.tex
+Ch\uhorn \ohorn ng 1.
+
+Overfull \hbox (49.28976pt too wide) in paragraph at lines 6--6
+|\T5/cmr/bx/n/24.88 (-20) ^^^I›N TR×ÍNG TRONG CH…N
+ []
+
+LaTeX Font Info:    Font shape `OML/zcochmi/m/it' will be
+(Font)              scaled to size 12.0pt on input line 12.
+LaTeX Font Info:    Font shape `OML/zcochmi/m/it' will be
+(Font)              scaled to size 8.8pt on input line 12.
+LaTeX Font Info:    Font shape `OML/zcochmi/m/it' will be
+(Font)              scaled to size 6.6pt on input line 12.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 12.0pt on input line 12.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 8.8pt on input line 12.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 6.6pt on input line 12.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 12.0pt on input line 12.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 8.8pt on input line 12.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 6.6pt on input line 12.
+LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 
+12.
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/latex/newtx\untxmia.fd
+File: untxmia.fd 2024/04/09 Fontinst v1.933 font definitions for U/ntxmia.
+)
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 12.0pt on input line 12.
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 8.8pt on input line 12.
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 6.6pt on input line 12.
+LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 
+12.
+
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/latex/newtx\untxsym.fd
+File: untxsym.fd 2023/08/16 Fontinst v1.933 font definitions for U/ntxsym.
+)
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 12.0pt on input line 12.
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 8.8pt on input line 12.
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 6.6pt on input line 12.
+LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 
+12.
+
+(C:\Users\duy5a\AppData\Roaming\MiKTeX\tex/latex/newtx\untxsyc.fd
+File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
+)
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 12.0pt on input line 12.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 8.8pt on input line 12.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 6.6pt on input line 12.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 12.0pt on input line 12.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 8.8pt on input line 12.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 6.6pt on input line 12.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <5.5> not available
+(Font)              size <5> substituted on input line 12.
+
+LaTeX Font Info:    Font shape `OML/zcochmi/m/it' will be
+(Font)              scaled to size 10.0pt on input line 12.
+LaTeX Font Info:    Font shape `OML/zcochmi/m/it' will be
+(Font)              scaled to size 7.3pt on input line 12.
+LaTeX Font Info:    Font shape `OML/zcochmi/m/it' will be
+(Font)              scaled to size 5.5pt on input line 12.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 10.0pt on input line 12.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 7.3pt on input line 12.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 5.5pt on input line 12.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 10.0pt on input line 12.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 7.3pt on input line 12.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 5.5pt on input line 12.
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 10.0pt on input line 12.
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 7.3pt on input line 12.
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 5.5pt on input line 12.
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 10.0pt on input line 12.
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 7.3pt on input line 12.
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 5.5pt on input line 12.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 10.0pt on input line 12.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 7.3pt on input line 12.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 5.5pt on input line 12.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 10.0pt on input line 12.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 7.3pt on input line 12.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 5.5pt on input line 12.
+
+Underfull \vbox (badness 1226) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[3
+
+
+]
+
+LaTeX Warning: Reference `eq:1_1' on page 4 undefined on input line 24.
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 17.97171pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.97171pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.97171pt}.
+
+[4]
+
+LaTeX Warning: Reference `fig:1_1' on page 5 undefined on input line 38.
+
+<figures/ch_01/fig_1_1.pdf, id=88, 103.7391pt x 215.73282pt>
+File: figures/ch_01/fig_1_1.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_1.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_1.pdf  used on input line 42.
+(pdftex.def)             Requested size: 93.3643pt x 194.15773pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.93912pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.93912pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
+
+[5 <./figures/ch_01/fig_1_1.pdf>]
+LaTeX Font Info:    Font shape `OML/zcochmi/b/it' will be
+(Font)              scaled to size 12.0pt on input line 51.
+LaTeX Font Info:    Font shape `OML/zcochmi/b/it' will be
+(Font)              scaled to size 8.8pt on input line 51.
+LaTeX Font Info:    Font shape `OML/zcochmi/b/it' will be
+(Font)              scaled to size 6.6pt on input line 51.
+LaTeX Font Info:    Font shape `LMS/ntxsy/b/n' will be
+(Font)              scaled to size 12.0pt on input line 51.
+LaTeX Font Info:    Font shape `LMS/ntxsy/b/n' will be
+(Font)              scaled to size 8.8pt on input line 51.
+LaTeX Font Info:    Font shape `LMS/ntxsy/b/n' will be
+(Font)              scaled to size 6.6pt on input line 51.
+LaTeX Font Info:    Font shape `LMX/ntxexx/b/n' will be
+(Font)              scaled to size 12.0pt on input line 51.
+LaTeX Font Info:    Font shape `LMX/ntxexx/b/n' will be
+(Font)              scaled to size 8.8pt on input line 51.
+LaTeX Font Info:    Font shape `LMX/ntxexx/b/n' will be
+(Font)              scaled to size 6.6pt on input line 51.
+LaTeX Font Info:    Font shape `U/ntxmia/b/it' will be
+(Font)              scaled to size 12.0pt on input line 51.
+LaTeX Font Info:    Font shape `U/ntxmia/b/it' will be
+(Font)              scaled to size 8.8pt on input line 51.
+LaTeX Font Info:    Font shape `U/ntxmia/b/it' will be
+(Font)              scaled to size 6.6pt on input line 51.
+LaTeX Font Info:    Font shape `U/ntxsym/b/n' will be
+(Font)              scaled to size 12.0pt on input line 51.
+LaTeX Font Info:    Font shape `U/ntxsym/b/n' will be
+(Font)              scaled to size 8.8pt on input line 51.
+LaTeX Font Info:    Font shape `U/ntxsym/b/n' will be
+(Font)              scaled to size 6.6pt on input line 51.
+LaTeX Font Info:    Font shape `U/ntxsyc/b/n' will be
+(Font)              scaled to size 12.0pt on input line 51.
+LaTeX Font Info:    Font shape `U/ntxsyc/b/n' will be
+(Font)              scaled to size 8.8pt on input line 51.
+LaTeX Font Info:    Font shape `U/ntxsyc/b/n' will be
+(Font)              scaled to size 6.6pt on input line 51.
+LaTeX Font Info:    Font shape `U/ntxexa/b/n' will be
+(Font)              scaled to size 12.0pt on input line 51.
+LaTeX Font Info:    Font shape `U/ntxexa/b/n' will be
+(Font)              scaled to size 8.8pt on input line 51.
+LaTeX Font Info:    Font shape `U/ntxexa/b/n' will be
+(Font)              scaled to size 6.6pt on input line 51.
+
+
+LaTeX Warning: Reference `fig:1_2' on page 6 undefined on input line 51.
+
+<figures/ch_01/fig_1_2.pdf, id=102, 132.22054pt x 62.57596pt>
+File: figures/ch_01/fig_1_2.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_2.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_2.pdf  used on input line 56.
+(pdftex.def)             Requested size: 132.2202pt x 62.57579pt.
+<figures/ch_01/fig_1_3.pdf, id=103, 132.54642pt x 27.79088pt>
+File: figures/ch_01/fig_1_3.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_3.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_3.pdf  used on input line 64.
+(pdftex.def)             Requested size: 132.54608pt x 27.7908pt.
+
+Overfull \hbox (3.79826pt too wide) in paragraph at lines 54--70
+[][]   []
+ []
+
+
+LaTeX Warning: Reference `fig:1_3' on page 6 undefined on input line 78.
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 17.97171pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.97171pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.97171pt}.
+
+[6 <./figures/ch_01/fig_1_2.pdf> <./figures/ch_01/fig_1_3.pdf
+
+pdfTeX warning: pdflatex (file ./figures/ch_01/fig_1_3.pdf): PDF inclusion: mul
+tiple pdfs with page group included in a single page
+>]
+
+LaTeX Warning: Reference `eq:1_5' on page 7 undefined on input line 98.
+
+
+LaTeX Warning: Reference `eq:1_2' on page 7 undefined on input line 98.
+
+
+LaTeX Warning: Reference `eq:1_2' on page 7 undefined on input line 104.
+
+
+LaTeX Warning: Reference `sec:10_3' on page 7 undefined on input line 106.
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.93912pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.93912pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
+
+[7]
+
+LaTeX Warning: Reference `eq:1_4' on page 8 undefined on input line 113.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 17.97171pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.97171pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.97171pt}.
+
+[8]
+
+LaTeX Warning: Reference `eq:1_11' on page 9 undefined on input line 150.
+
+
+LaTeX Warning: Reference `eq:1_9' on page 9 undefined on input line 150.
+
+
+LaTeX Warning: Reference `eq:1_11' on page 9 undefined on input line 150.
+
+
+LaTeX Warning: Reference `sec:A_3' on page 9 undefined on input line 161.
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.93912pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.93912pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
+
+[9]
+
+LaTeX Warning: Reference `sec:6_2' on page 10 undefined on input line 165.
+
+<figures/ch_01/fig_1_4.pdf, id=142, 110.80475pt x 66.43896pt>
+File: figures/ch_01/fig_1_4.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_4.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_4.pdf  used on input line 171.
+(pdftex.def)             Requested size: 110.80446pt x 66.43878pt.
+
+LaTeX Warning: Reference `fig:1_4' on page 10 undefined on input line 178.
+
+
+LaTeX Warning: Reference `eq:1_3' on page 10 undefined on input line 186.
+
+
+LaTeX Warning: Reference `eq:1_11' on page 10 undefined on input line 186.
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 17.97171pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.97171pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.97171pt}.
+
+[10 <./figures/ch_01/fig_1_4.pdf>]
+
+LaTeX Warning: Reference `eq:1_13' on page 11 undefined on input line 188.
+
+
+LaTeX Warning: Reference `eq:1_13' on page 11 undefined on input line 189.
+
+
+LaTeX Warning: Reference `eq:1_14' on page 11 undefined on input line 197.
+
+
+LaTeX Warning: Reference `eq:1_14' on page 11 undefined on input line 199.
+
+
+LaTeX Warning: Reference `eq:1_14' on page 11 undefined on input line 201.
+
+
+LaTeX Warning: Reference `eq:1_13' on page 11 undefined on input line 203.
+
+
+LaTeX Warning: Reference `eq:1_14' on page 11 undefined on input line 203.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.93912pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.93912pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
+
+[11]
+
+LaTeX Warning: Reference `eq:1_44' on page 12 undefined on input line 216.
+
+
+LaTeX Warning: Reference `eq:1_15' on page 12 undefined on input line 218.
+
+
+LaTeX Warning: Reference `eq:1_14' on page 12 undefined on input line 234.
+
+
+LaTeX Warning: Reference `eq:1_15' on page 12 undefined on input line 240.
+
+
+LaTeX Warning: Reference `eq:1_18' on page 12 undefined on input line 240.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/b/n' in size <5.5> not available
+(Font)              size <5> substituted on input line 240.
+
+LaTeX Font Info:    Font shape `OML/zcochmi/b/it' will be
+(Font)              scaled to size 10.0pt on input line 240.
+LaTeX Font Info:    Font shape `OML/zcochmi/b/it' will be
+(Font)              scaled to size 7.3pt on input line 240.
+LaTeX Font Info:    Font shape `OML/zcochmi/b/it' will be
+(Font)              scaled to size 5.5pt on input line 240.
+LaTeX Font Info:    Font shape `LMS/ntxsy/b/n' will be
+(Font)              scaled to size 10.0pt on input line 240.
+LaTeX Font Info:    Font shape `LMS/ntxsy/b/n' will be
+(Font)              scaled to size 7.3pt on input line 240.
+LaTeX Font Info:    Font shape `LMS/ntxsy/b/n' will be
+(Font)              scaled to size 5.5pt on input line 240.
+LaTeX Font Info:    Font shape `LMX/ntxexx/b/n' will be
+(Font)              scaled to size 10.0pt on input line 240.
+LaTeX Font Info:    Font shape `LMX/ntxexx/b/n' will be
+(Font)              scaled to size 7.3pt on input line 240.
+LaTeX Font Info:    Font shape `LMX/ntxexx/b/n' will be
+(Font)              scaled to size 5.5pt on input line 240.
+LaTeX Font Info:    Font shape `U/ntxmia/b/it' will be
+(Font)              scaled to size 10.0pt on input line 240.
+LaTeX Font Info:    Font shape `U/ntxmia/b/it' will be
+(Font)              scaled to size 7.3pt on input line 240.
+LaTeX Font Info:    Font shape `U/ntxmia/b/it' will be
+(Font)              scaled to size 5.5pt on input line 240.
+LaTeX Font Info:    Font shape `U/ntxsym/b/n' will be
+(Font)              scaled to size 10.0pt on input line 240.
+LaTeX Font Info:    Font shape `U/ntxsym/b/n' will be
+(Font)              scaled to size 7.3pt on input line 240.
+LaTeX Font Info:    Font shape `U/ntxsym/b/n' will be
+(Font)              scaled to size 5.5pt on input line 240.
+LaTeX Font Info:    Font shape `U/ntxsyc/b/n' will be
+(Font)              scaled to size 10.0pt on input line 240.
+LaTeX Font Info:    Font shape `U/ntxsyc/b/n' will be
+(Font)              scaled to size 7.3pt on input line 240.
+LaTeX Font Info:    Font shape `U/ntxsyc/b/n' will be
+(Font)              scaled to size 5.5pt on input line 240.
+LaTeX Font Info:    Font shape `U/ntxexa/b/n' will be
+(Font)              scaled to size 10.0pt on input line 240.
+LaTeX Font Info:    Font shape `U/ntxexa/b/n' will be
+(Font)              scaled to size 7.3pt on input line 240.
+LaTeX Font Info:    Font shape `U/ntxexa/b/n' will be
+(Font)              scaled to size 5.5pt on input line 240.
+
+LaTeX Warning: Reference `sec:1_2' on page 12 undefined on input line 248.
+
+
+LaTeX Warning: Reference `eq:1_15' on page 12 undefined on input line 248.
+
+
+Underfull \vbox (badness 1603) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 17.97171pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.97171pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.97171pt}.
+
+[12]
+
+LaTeX Warning: Reference `eq:1_15' on page 13 undefined on input line 256.
+
+
+LaTeX Warning: Reference `fig:1_5' on page 13 undefined on input line 258.
+
+<figures/ch_01/fig_1_5.pdf, id=171, 113.91933pt x 75.6155pt>
+File: figures/ch_01/fig_1_5.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_5.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_5.pdf  used on input line 263.
+(pdftex.def)             Requested size: 113.91904pt x 75.6153pt.
+<figures/ch_01/fig_1_6.pdf, id=172, 167.70515pt x 78.5894pt>
+File: figures/ch_01/fig_1_6.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_6.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_6.pdf  used on input line 271.
+(pdftex.def)             Requested size: 167.70474pt x 78.58919pt.
+
+Overfull \hbox (3.79826pt too wide) in paragraph at lines 261--277
+[][]   []
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.93912pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.93912pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
+
+[13 <./figures/ch_01/fig_1_5.pdf> <./figures/ch_01/fig_1_6.pdf
+
+pdfTeX warning: pdflatex (file ./figures/ch_01/fig_1_6.pdf): PDF inclusion: mul
+tiple pdfs with page group included in a single page
+>]
+<figures/ch_01/fig_1_7.pdf, id=182, 141.45197pt x 125.61609pt>
+File: figures/ch_01/fig_1_7.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_7.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_7.pdf  used on input line 293.
+(pdftex.def)             Requested size: 141.45161pt x 125.61578pt.
+
+
+LaTeX Warning: Reference `eq:1_20' on page 14 undefined on input line 300.
+
+
+LaTeX Warning: Reference `fig:1_7' on page 14 undefined on input line 306.
+
+
+LaTeX Warning: Reference `eq:1_21' on page 14 undefined on input line 306.
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 17.97171pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.97171pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.97171pt}.
+
+[14 <./figures/ch_01/fig_1_7.pdf>]
+
+LaTeX Warning: Reference `eq:1_22' on page 15 undefined on input line 325.
+
+
+LaTeX Warning: Reference `eq:1_23' on page 15 undefined on input line 325.
+
+
+LaTeX Warning: Reference `eq:1_24' on page 15 undefined on input line 336.
+
+
+LaTeX Warning: Reference `eq:1_24' on page 15 undefined on input line 338.
+
+
+LaTeX Warning: Reference `eq:1_25' on page 15 undefined on input line 346.
+
+
+LaTeX Warning: Reference `eq:1_25' on page 15 undefined on input line 346.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.93912pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.93912pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
+
+[15]
+
+LaTeX Warning: Reference `eq:1_22' on page 16 undefined on input line 362.
+
+
+LaTeX Warning: Reference `eq:1_23' on page 16 undefined on input line 376.
+
+
+LaTeX Warning: Reference `eq:1_26' on page 16 undefined on input line 387.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 17.97171pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.97171pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.97171pt}.
+
+[16]
+
+LaTeX Warning: Reference `eq:1_25' on page 17 undefined on input line 389.
+
+
+LaTeX Warning: Reference `eq:1_31' on page 17 undefined on input line 411.
+
+
+LaTeX Warning: Reference `eq:1_32' on page 17 undefined on input line 416.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.93912pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.93912pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
+
+[17]
+
+LaTeX Warning: Reference `eq:1_24' on page 18 undefined on input line 439.
+
+
+LaTeX Warning: Reference `eq:1_35' on page 18 undefined on input line 455.
+
+
+LaTeX Warning: Reference `eq:1_36' on page 18 undefined on input line 461.
+
+
+LaTeX Warning: Reference `eq:1_36' on page 18 undefined on input line 461.
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 17.97171pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.97171pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.97171pt}.
+
+[18]
+
+LaTeX Warning: Reference `eq:1_37' on page 19 undefined on input line 468.
+
+
+LaTeX Warning: Reference `eq:1_40' on page 19 undefined on input line 495.
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.93912pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.93912pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
+
+[19]
+
+LaTeX Warning: Reference `eq:1_42' on page 20 undefined on input line 515.
+
+
+LaTeX Warning: Reference `eq:1_43' on page 20 undefined on input line 527.
+
+
+LaTeX Warning: Reference `eq:1_44' on page 20 undefined on input line 527.
+
+
+LaTeX Warning: Reference `eq:1_41' on page 20 undefined on input line 529.
+
+
+LaTeX Warning: Reference `eq:1_26' on page 20 undefined on input line 529.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 17.97171pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.97171pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.97171pt}.
+
+[20]
+
+LaTeX Warning: Reference `eq:1_15' on page 21 undefined on input line 553.
+
+
+LaTeX Warning: Reference `eq:1_41' on page 21 undefined on input line 555.
+
+
+LaTeX Warning: Reference `eq:1_30' on page 21 undefined on input line 561.
+
+
+LaTeX Warning: Reference `eq:1_45' on page 21 undefined on input line 573.
+
+
+LaTeX Warning: Reference `eq:1_46' on page 21 undefined on input line 579.
+
+
+LaTeX Warning: Reference `eq:1_44' on page 21 undefined on input line 587.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.93912pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.93912pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
+
+[21]
+
+LaTeX Warning: Reference `fig:1_8' on page 22 undefined on input line 591.
+
+<figures/ch_01/fig_1_8.pdf, id=251, 118.50418pt x 118.50417pt>
+File: figures/ch_01/fig_1_8.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_8.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_8.pdf  used on input line 596.
+(pdftex.def)             Requested size: 118.50388pt x 118.50386pt.
+<figures/ch_01/fig_1_9.pdf, id=252, 143.23924pt x 153.99619pt>
+File: figures/ch_01/fig_1_9.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_9.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_9.pdf  used on input line 604.
+(pdftex.def)             Requested size: 136.07649pt x 146.29552pt.
+
+Overfull \hbox (3.79826pt too wide) in paragraph at lines 594--610
+[][]   []
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 17.97171pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.97171pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.97171pt}.
+
+[22 <./figures/ch_01/fig_1_8.pdf> <./figures/ch_01/fig_1_9.pdf
+
+pdfTeX warning: pdflatex (file ./figures/ch_01/fig_1_9.pdf): PDF inclusion: mul
+tiple pdfs with page group included in a single page
+>]
+
+LaTeX Warning: Reference `fig:1_9' on page 23 undefined on input line 618.
+
+
+LaTeX Warning: Reference `eq:1_47' on page 23 undefined on input line 636.
+
+
+LaTeX Warning: Reference `fig:1_10' on page 23 undefined on input line 649.
+
+<figures/ch_01/fig_1_10.pdf, id=262, 106.03017pt x 35.43358pt>
+File: figures/ch_01/fig_1_10.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_10.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_10.pdf  used on input line 653.
+(pdftex.def)             Requested size: 106.02989pt x 35.43347pt.
+
+LaTeX Warning: Reference `eq:1_48' on page 23 undefined on input line 660.
+
+
+LaTeX Warning: Reference `eq:1_26' on page 23 undefined on input line 660.
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.93912pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.93912pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
+
+[23 <./figures/ch_01/fig_1_10.pdf>]
+
+LaTeX Warning: Reference `fig:1_9' on page 24 undefined on input line 662.
+
+
+LaTeX Warning: Reference `eq:1_48' on page 24 undefined on input line 662.
+
+
+LaTeX Warning: Reference `eq:1_44' on page 24 undefined on input line 667.
+
+
+LaTeX Warning: Reference `fig:1_9' on page 24 undefined on input line 667.
+
+
+LaTeX Warning: Reference `eq:1_50' on page 24 undefined on input line 667.
+
+
+LaTeX Warning: Reference `eq:1_44' on page 24 undefined on input line 673.
+
+
+LaTeX Warning: Reference `eq:1_50' on page 24 undefined on input line 679.
+
+
+LaTeX Warning: Reference `eq:1_51' on page 24 undefined on input line 685.
+
+
+LaTeX Warning: Reference `eq:1_52' on page 24 undefined on input line 685.
+
+
+LaTeX Warning: Reference `fig:1_9' on page 24 undefined on input line 685.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 17.97171pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.97171pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.97171pt}.
+
+[24]
+
+LaTeX Warning: Reference `eq:1_53' on page 25 undefined on input line 697.
+
+
+LaTeX Warning: Reference `eq:1_51' on page 25 undefined on input line 703.
+
+
+LaTeX Warning: Reference `eq:1_54' on page 25 undefined on input line 703.
+
+
+LaTeX Warning: Reference `eq:1_53' on page 25 undefined on input line 708.
+
+
+LaTeX Warning: Reference `eq:1_51' on page 25 undefined on input line 714.
+
+
+LaTeX Warning: Reference `eq:1_52' on page 25 undefined on input line 714.
+
+<figures/ch_01/fig_1_11.pdf, id=281, 138.77548pt x 120.71887pt>
+File: figures/ch_01/fig_1_11.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_11.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_11.pdf  used on input line 721.
+(pdftex.def)             Requested size: 138.77513pt x 120.71855pt.
+<figures/ch_01/fig_1_12.pdf, id=282, 166.84691pt x 75.53166pt>
+File: figures/ch_01/fig_1_12.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_12.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_12.pdf  used on input line 729.
+(pdftex.def)             Requested size: 166.8465pt x 75.53146pt.
+
+Overfull \hbox (3.79826pt too wide) in paragraph at lines 719--735
+[][]   []
+ []
+
+
+LaTeX Warning: Reference `fig:1_11' on page 25 undefined on input line 737.
+
+
+LaTeX Warning: Reference `eq:1_50' on page 25 undefined on input line 737.
+
+
+LaTeX Warning: Reference `fig:1_12' on page 25 undefined on input line 739.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.93912pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.93912pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
+
+[25]
+
+LaTeX Warning: Reference `eq:1_57' on page 26 undefined on input line 745.
+
+
+LaTeX Warning: Reference `eq:1_58' on page 26 undefined on input line 751.
+
+
+LaTeX Warning: Reference `eq:1_29' on page 26 undefined on input line 753.
+
+
+LaTeX Warning: Reference `fig:1_13' on page 26 undefined on input line 761.
+
+
+LaTeX Warning: Reference `fig:1_13' on page 26 undefined on input line 761.
+
+<figures/ch_01/fig_1_13.pdf, id=291, 136.4954pt x 70.3257pt>
+File: figures/ch_01/fig_1_13.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_13.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_13.pdf  used on input line 769.
+(pdftex.def)             Requested size: 136.49506pt x 70.32552pt.
+<figures/ch_01/fig_1_14.pdf, id=292, 170.61754pt x 96.88815pt>
+File: figures/ch_01/fig_1_14.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_14.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_14.pdf  used on input line 777.
+(pdftex.def)             Requested size: 170.61711pt x 96.88791pt.
+
+Overfull \hbox (3.79826pt too wide) in paragraph at lines 767--783
+[][]   []
+ []
+
+
+LaTeX Warning: Reference `eq:1_59' on page 26 undefined on input line 786.
+
+
+LaTeX Warning: Reference `eq:1_60' on page 26 undefined on input line 792.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 17.97171pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.97171pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.97171pt}.
+
+[26 <./figures/ch_01/fig_1_11.pdf> <./figures/ch_01/fig_1_12.pdf
+
+pdfTeX warning: pdflatex (file ./figures/ch_01/fig_1_12.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>]
+
+LaTeX Warning: Reference `eq:1_61' on page 27 undefined on input line 800.
+
+
+LaTeX Warning: Reference `fig:1_14' on page 27 undefined on input line 802.
+
+
+LaTeX Warning: Reference `eq:1_40' on page 27 undefined on input line 802.
+
+
+LaTeX Warning: Reference `eq:1_60' on page 27 undefined on input line 808.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.93912pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.93912pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
+
+[27 <./figures/ch_01/fig_1_13.pdf> <./figures/ch_01/fig_1_14.pdf
+
+pdfTeX warning: pdflatex (file ./figures/ch_01/fig_1_14.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>]
+
+LaTeX Warning: Reference `fig:1_14' on page 28 undefined on input line 822.
+
+
+LaTeX Warning: Reference `eq:1_62' on page 28 undefined on input line 822.
+
+
+LaTeX Warning: Reference `eq:1_62' on page 28 undefined on input line 824.
+
+
+LaTeX Warning: Reference `fig:1_14' on page 28 undefined on input line 824.
+
+<figures/ch_01/fig_1_15.pdf, id=316, 144.28006pt x 80.57397pt>
+File: figures/ch_01/fig_1_15.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_15.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_15.pdf  used on input line 828.
+(pdftex.def)             Requested size: 144.2797pt x 80.57376pt.
+
+LaTeX Warning: Reference `fig:1_15' on page 28 undefined on input line 835.
+
+
+LaTeX Warning: Reference `eq:1_60' on page 28 undefined on input line 843.
+
+
+LaTeX Warning: Reference `fig:1_12' on page 28 undefined on input line 843.
+
+
+LaTeX Warning: Reference `fig:1_16' on page 28 undefined on input line 847.
+
+
+Underfull \vbox (badness 1742) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 17.97171pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.97171pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.97171pt}.
+
+[28 <./figures/ch_01/fig_1_15.pdf>]
+<figures/ch_01/fig_1_16.pdf, id=326, 159.37883pt x 115.48895pt>
+File: figures/ch_01/fig_1_16.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_16.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_16.pdf  used on input line 851.
+(pdftex.def)             Requested size: 151.40901pt x 109.71387pt.
+
+
+LaTeX Warning: Reference `eq:1_47' on page 29 undefined on input line 870.
+
+
+LaTeX Warning: Reference `eq:1_63' on page 29 undefined on input line 870.
+
+
+LaTeX Warning: Reference `eq:1_64' on page 29 undefined on input line 882.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.93912pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.93912pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
+
+[29 <./figures/ch_01/fig_1_16.pdf>]
+
+LaTeX Warning: Reference `eq:1_26' on page 30 undefined on input line 889.
+
+
+LaTeX Warning: Reference `eq:1_66' on page 30 undefined on input line 895.
+
+<figures/ch_01/fig_1_17.pdf, id=337, 88.72223pt x 53.31479pt>
+File: figures/ch_01/fig_1_17.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_17.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_17.pdf  used on input line 900.
+(pdftex.def)             Requested size: 88.722pt x 53.31464pt.
+<figures/ch_01/fig_1_18.pdf, id=338, 164.78131pt x 87.39697pt>
+File: figures/ch_01/fig_1_18.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_18.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_18.pdf  used on input line 908.
+(pdftex.def)             Requested size: 164.7809pt x 87.39674pt.
+
+Overfull \hbox (3.79825pt too wide) in paragraph at lines 898--914
+[][]   []
+ []
+
+
+LaTeX Warning: Reference `fig:1_17' on page 30 undefined on input line 916.
+
+
+LaTeX Warning: Reference `eq:1_67' on page 30 undefined on input line 922.
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 17.97171pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.97171pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.97171pt}.
+
+[30 <./figures/ch_01/fig_1_17.pdf> <./figures/ch_01/fig_1_18.pdf
+
+pdfTeX warning: pdflatex (file ./figures/ch_01/fig_1_18.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>]
+
+LaTeX Warning: Reference `eq:1_65' on page 31 undefined on input line 930.
+
+
+LaTeX Warning: Reference `eq:1_63' on page 31 undefined on input line 930.
+
+
+LaTeX Warning: Reference `eq:1_65' on page 31 undefined on input line 930.
+
+
+LaTeX Warning: Reference `eq:1_65' on page 31 undefined on input line 930.
+
+
+LaTeX Warning: Reference `fig:1_18' on page 31 undefined on input line 932.
+
+
+LaTeX Warning: Reference `eq:1_65' on page 31 undefined on input line 932.
+
+
+LaTeX Warning: Reference `eq:1_65' on page 31 undefined on input line 932.
+
+
+LaTeX Warning: Reference `fig:1_18' on page 31 undefined on input line 932.
+
+
+LaTeX Warning: Reference `eq:1_65' on page 31 undefined on input line 934.
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.93912pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.93912pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
+
+[31]
+<figures/ch_01/fig_1_19.pdf, id=355, 102.16637pt x 125.20792pt>
+File: figures/ch_01/fig_1_19.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_19.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_19.pdf  used on input line 964.
+(pdftex.def)             Requested size: 102.1661pt x 125.20761pt.
+
+
+LaTeX Warning: Reference `fig:1_19' on page 32 undefined on input line 971.
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 17.97171pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.97171pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.97171pt}.
+
+[32 <./figures/ch_01/fig_1_19.pdf>]
+
+LaTeX Warning: Reference `eq:1_70' on page 33 undefined on input line 989.
+
+
+LaTeX Warning: Reference `eq:1_70' on page 33 undefined on input line 989.
+
+
+LaTeX Warning: Reference `eq:1_70' on page 33 undefined on input line 1001.
+
+
+LaTeX Warning: Reference `eq:1_73' on page 33 undefined on input line 1018.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.93912pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.93912pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
+
+[33]
+
+LaTeX Warning: Reference `eq:1_74' on page 34 undefined on input line 1020.
+
+<figures/ch_01/fig_1_20.pdf, id=377, 102.66112pt x 98.68344pt>
+File: figures/ch_01/fig_1_20.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_20.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_20.pdf  used on input line 1024.
+(pdftex.def)             Requested size: 97.5275pt x 93.74872pt.
+
+LaTeX Warning: Reference `sec:1_5' on page 34 undefined on input line 1031.
+
+
+LaTeX Warning: Reference `fig:1_20' on page 34 undefined on input line 1031.
+
+
+LaTeX Warning: Reference `eq:1_74' on page 34 undefined on input line 1037.
+
+
+LaTeX Warning: Reference `fig:1_20' on page 34 undefined on input line 1042.
+
+
+LaTeX Warning: Reference `fig:1_20' on page 34 undefined on input line 1042.
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 17.97171pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.97171pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.97171pt}.
+
+[34 <./figures/ch_01/fig_1_20.pdf>]
+
+LaTeX Warning: Reference `eq:1_75' on page 35 undefined on input line 1044.
+
+
+LaTeX Warning: Reference `fig:1_21' on page 35 undefined on input line 1054.
+
+
+LaTeX Warning: Reference `fig:1_21' on page 35 undefined on input line 1054.
+
+<figures/ch_01/fig_1_21.pdf, id=386, 69.47272pt x 156.49016pt>
+File: figures/ch_01/fig_1_21.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_21.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_21.pdf  used on input line 1059.
+(pdftex.def)             Requested size: 65.99869pt x 148.6648pt.
+<figures/ch_01/fig_1_22.pdf, id=387, 165.25703pt x 138.44614pt>
+File: figures/ch_01/fig_1_22.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_22.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_22.pdf  used on input line 1067.
+(pdftex.def)             Requested size: 156.99329pt x 131.52307pt.
+
+Overfull \hbox (3.79825pt too wide) in paragraph at lines 1057--1073
+[][]   []
+ []
+
+
+LaTeX Warning: Reference `fig:1_22' on page 35 undefined on input line 1075.
+
+
+LaTeX Warning: Reference `fig:1_22' on page 35 undefined on input line 1077.
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.93912pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.93912pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
+
+[35 <./figures/ch_01/fig_1_21.pdf> <./figures/ch_01/fig_1_22.pdf
+
+pdfTeX warning: pdflatex (file ./figures/ch_01/fig_1_22.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>]
+
+LaTeX Warning: Reference `fig:1_23' on page 36 undefined on input line 1085.
+
+<figures/ch_01/fig_1_23.pdf, id=408, 131.09377pt x 99.25198pt>
+File: figures/ch_01/fig_1_23.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_23.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_23.pdf  used on input line 1089.
+(pdftex.def)             Requested size: 131.09344pt x 99.25172pt.
+
+LaTeX Warning: Reference `eq:1_78' on page 36 undefined on input line 1102.
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 17.97171pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.97171pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.97171pt}.
+
+[36 <./figures/ch_01/fig_1_23.pdf>]
+
+LaTeX Warning: Reference `eq:1_79' on page 37 undefined on input line 1114.
+
+
+LaTeX Warning: Reference `fig:1_24' on page 37 undefined on input line 1116.
+
+
+LaTeX Warning: Reference `eq:1_79' on page 37 undefined on input line 1116.
+
+
+LaTeX Warning: Reference `eq:1_77' on page 37 undefined on input line 1122.
+
+
+LaTeX Warning: Reference `fig:1_24' on page 37 undefined on input line 1124.
+
+
+LaTeX Warning: Reference `fig:1_24' on page 37 undefined on input line 1124.
+
+
+Underfull \vbox (badness 3128) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.93912pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.93912pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
+
+[37]
+
+LaTeX Warning: Reference `eq:1_79' on page 38 undefined on input line 1126.
+
+
+LaTeX Warning: Reference `eq:1_79' on page 38 undefined on input line 1126.
+
+<figures/ch_01/fig_1_24.pdf, id=431, 156.49016pt x 85.70926pt>
+File: figures/ch_01/fig_1_24.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_24.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_24.pdf  used on input line 1131.
+(pdftex.def)             Requested size: 156.48976pt x 85.70905pt.
+<figures/ch_01/fig_1_25.pdf, id=432, 133.26431pt x 122.42986pt>
+File: figures/ch_01/fig_1_25.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_25.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_25.pdf  used on input line 1139.
+(pdftex.def)             Requested size: 133.26398pt x 122.42953pt.
+
+Overfull \hbox (3.79826pt too wide) in paragraph at lines 1129--1145
+[][]   []
+ []
+
+
+LaTeX Warning: Reference `fig:1_25' on page 38 undefined on input line 1147.
+
+
+LaTeX Warning: Reference `fig:1_25' on page 38 undefined on input line 1149.
+
+
+LaTeX Warning: Reference `eq:1_80' on page 38 undefined on input line 1166.
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 17.97171pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.97171pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.97171pt}.
+
+[38 <./figures/ch_01/fig_1_24.pdf> <./figures/ch_01/fig_1_25.pdf
+
+pdfTeX warning: pdflatex (file ./figures/ch_01/fig_1_25.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.93912pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.93912pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
+
+[39]
+
+LaTeX Warning: Reference `fig:1_26' on page 40 undefined on input line 1202.
+
+<figures/ch_01/fig_1_26.pdf, id=455, 113.99318pt x 74.75777pt>
+File: figures/ch_01/fig_1_26.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_26.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_26.pdf  used on input line 1212.
+(pdftex.def)             Requested size: 113.99289pt x 74.75757pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 17.97171pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.97171pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.97171pt}.
+
+[40 <./figures/ch_01/fig_1_26.pdf>]
+
+LaTeX Warning: Reference `fig:1_27' on page 41 undefined on input line 1236.
+
+<figures/ch_01/fig_1_27.pdf, id=467, 173.56061pt x 134.21397pt>
+File: figures/ch_01/fig_1_27.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_27.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_27.pdf  used on input line 1241.
+(pdftex.def)             Requested size: 164.88162pt x 127.50253pt.
+<figures/ch_01/fig_1_28.pdf, id=468, 130.95602pt x 132.78598pt>
+File: figures/ch_01/fig_1_28.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_28.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_28.pdf  used on input line 1249.
+(pdftex.def)             Requested size: 124.4075pt x 126.14595pt.
+
+Overfull \hbox (3.79826pt too wide) in paragraph at lines 1239--1255
+[][]   []
+ []
+
+
+LaTeX Warning: Reference `fig:1_28' on page 41 undefined on input line 1257.
+
+
+Underfull \vbox (badness 1831) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.93912pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.93912pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
+
+[41 <./figures/ch_01/fig_1_27.pdf> <./figures/ch_01/fig_1_28.pdf
+
+pdfTeX warning: pdflatex (file ./figures/ch_01/fig_1_28.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>]
+
+LaTeX Warning: Reference `eq:1_84' on page 42 undefined on input line 1279.
+
+
+LaTeX Warning: Reference `eq:1_85' on page 42 undefined on input line 1279.
+
+
+LaTeX Warning: Reference `eq:1_86' on page 42 undefined on input line 1279.
+
+
+LaTeX Warning: Reference `eq:1_87' on page 42 undefined on input line 1284.
+
+
+LaTeX Warning: Reference `fig:1_29' on page 42 undefined on input line 1284.
+
+<figures/ch_01/fig_1_29.pdf, id=483, 133.45714pt x 126.694pt>
+File: figures/ch_01/fig_1_29.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_29.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_29.pdf  used on input line 1291.
+(pdftex.def)             Requested size: 133.4568pt x 126.69366pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 17.97171pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.97171pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.97171pt}.
+
+[42]
+
+LaTeX Warning: Reference `eq:1_89' on page 43 undefined on input line 1308.
+
+
+LaTeX Warning: Reference `eq:1_89' on page 43 undefined on input line 1308.
+
+
+LaTeX Warning: Reference `eq:1_89' on page 43 undefined on input line 1308.
+
+
+LaTeX Warning: Reference `eq:1_89' on page 43 undefined on input line 1310.
+
+
+LaTeX Warning: Reference `eq:1_89' on page 43 undefined on input line 1310.
+
+
+LaTeX Warning: Reference `eq:1_89' on page 43 undefined on input line 1310.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.93912pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.93912pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
+
+[43 <./figures/ch_01/fig_1_29.pdf>]
+
+LaTeX Warning: Reference `fig:1_30' on page 44 undefined on input line 1315.
+
+
+LaTeX Warning: Reference `eq:1_90' on page 44 undefined on input line 1317.
+
+
+LaTeX Warning: Reference `eq:1_90' on page 44 undefined on input line 1317.
+
+
+LaTeX Warning: Reference `eq:1_90' on page 44 undefined on input line 1317.
+
+
+LaTeX Warning: Reference `fig:1_31' on page 44 undefined on input line 1318.
+
+<figures/ch_01/fig_1_30.pdf, id=502, 86.25378pt x 86.79935pt>
+File: figures/ch_01/fig_1_30.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_30.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_30.pdf  used on input line 1329.
+(pdftex.def)             Requested size: 86.25356pt x 86.79913pt.
+<figures/ch_01/fig_1_31.pdf, id=503, 103.83585pt x 85.35826pt>
+File: figures/ch_01/fig_1_31.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_31.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_31.pdf  used on input line 1337.
+(pdftex.def)             Requested size: 103.83559pt x 85.35805pt.
+
+Overfull \hbox (2.37553pt too wide) in paragraph at lines 1327--1343
+[][]   []
+ []
+
+
+LaTeX Warning: Reference `eq:1_91' on page 44 undefined on input line 1346.
+
+
+Underfull \vbox (badness 2359) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 17.97171pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.97171pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.97171pt}.
+
+[44]
+
+LaTeX Warning: Reference `eq:1_92' on page 45 undefined on input line 1364.
+
+
+LaTeX Warning: Reference `eq:1_94' on page 45 undefined on input line 1364.
+
+
+LaTeX Warning: Reference `eq:1_94' on page 45 undefined on input line 1364.
+
+
+LaTeX Warning: Reference `eq:1_92' on page 45 undefined on input line 1364.
+
+
+Underfull \vbox (badness 1082) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.93912pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.93912pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
+
+[45 <./figures/ch_01/fig_1_30.pdf> <./figures/ch_01/fig_1_31.pdf
+
+pdfTeX warning: pdflatex (file ./figures/ch_01/fig_1_31.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>]
+
+LaTeX Warning: Reference `eq:1_90' on page 46 undefined on input line 1380.
+
+
+LaTeX Warning: Reference `eq:1_88' on page 46 undefined on input line 1388.
+
+
+LaTeX Warning: Reference `eq:1_96' on page 46 undefined on input line 1388.
+
+
+LaTeX Warning: Reference `eq:1_97' on page 46 undefined on input line 1400.
+
+
+LaTeX Warning: Reference `eq:1_68' on page 46 undefined on input line 1415.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 17.97171pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.97171pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.97171pt}.
+
+[46]
+
+LaTeX Warning: Reference `eq:1_81' on page 47 undefined on input line 1423.
+
+
+LaTeX Warning: Reference `eq:1_92' on page 47 undefined on input line 1425.
+
+
+LaTeX Warning: Reference `eq:1_94' on page 47 undefined on input line 1425.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.93912pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.93912pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
+
+[47]
+
+LaTeX Warning: Reference `eq:1_106' on page 48 undefined on input line 1488.
+
+
+LaTeX Warning: Reference `eq:1_97' on page 48 undefined on input line 1488.
+
+
+LaTeX Warning: Reference `eq:1_82' on page 48 undefined on input line 1490.
+
+
+LaTeX Warning: Reference `eq:1_97' on page 48 undefined on input line 1490.
+
+
+LaTeX Warning: Reference `sec:1_6' on page 48 undefined on input line 1498.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 17.97171pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.97171pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.97171pt}.
+
+[48]
+
+LaTeX Warning: Reference `eq:1_46' on page 49 undefined on input line 1510.
+
+
+LaTeX Warning: Reference `eq:1_110' on page 49 undefined on input line 1512.
+
+
+LaTeX Warning: Reference `eq:1_80' on page 49 undefined on input line 1512.
+
+
+LaTeX Warning: Reference `fig:1_32' on page 49 undefined on input line 1514.
+
+
+LaTeX Warning: Reference `eq:1_109' on page 49 undefined on input line 1514.
+
+<figures/ch_01/fig_1_32.pdf, id=552, 108.1073pt x 103.05849pt>
+File: figures/ch_01/fig_1_32.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_32.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_32.pdf  used on input line 1535.
+(pdftex.def)             Requested size: 102.70134pt x 97.90498pt.
+<figures/ch_01/fig_1_33.pdf, id=553, 96.66982pt x 117.96579pt>
+File: figures/ch_01/fig_1_33.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_33.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_33.pdf  used on input line 1543.
+(pdftex.def)             Requested size: 91.83577pt x 112.06685pt.
+
+Overfull \hbox (2.37553pt too wide) in paragraph at lines 1533--1549
+[][]   []
+ []
+
+
+LaTeX Warning: Reference `fig:1_25' on page 49 undefined on input line 1551.
+
+
+LaTeX Warning: Reference `fig:1_33' on page 49 undefined on input line 1551.
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.93912pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.93912pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
+
+[49 <./figures/ch_01/fig_1_32.pdf> <./figures/ch_01/fig_1_33.pdf
+
+pdfTeX warning: pdflatex (file ./figures/ch_01/fig_1_33.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>]
+
+LaTeX Warning: Reference `eq:1_96' on page 50 undefined on input line 1553.
+
+
+LaTeX Warning: Reference `sec:1_8' on page 50 undefined on input line 1553.
+
+
+LaTeX Warning: Reference `eq:1_41' on page 50 undefined on input line 1553.
+
+
+LaTeX Warning: Reference `eq:1_110' on page 50 undefined on input line 1555.
+
+
+LaTeX Warning: Reference `fig:1_34' on page 50 undefined on input line 1555.
+
+
+LaTeX Warning: Reference `eq:1_110' on page 50 undefined on input line 1555.
+
+
+LaTeX Warning: Reference `fig:1_35' on page 50 undefined on input line 1555.
+
+<figures/ch_01/fig_1_34.pdf, id=581, 132.49132pt x 64.49106pt>
+File: figures/ch_01/fig_1_34.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_34.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_34.pdf  used on input line 1560.
+(pdftex.def)             Requested size: 123.21564pt x 59.97604pt.
+<figures/ch_01/fig_1_35.pdf, id=582, 73.96036pt x 75.3298pt>
+File: figures/ch_01/fig_1_35.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_35.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_35.pdf  used on input line 1569.
+(pdftex.def)             Requested size: 68.7824pt x 70.05597pt.
+<figures/ch_01/fig_1_36.pdf, id=583, 118.50418pt x 118.50417pt>
+File: figures/ch_01/fig_1_36.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_36.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_36.pdf  used on input line 1578.
+(pdftex.def)             Requested size: 112.57831pt x 112.5783pt.
+
+LaTeX Warning: Reference `fig:1_36' on page 50 undefined on input line 1588.
+
+
+LaTeX Warning: Reference `sec:1_5' on page 50 undefined on input line 1588.
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 17.97171pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.97171pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.97171pt}.
+
+[50 <./figures/ch_01/fig_1_34.pdf> <./figures/ch_01/fig_1_35.pdf
+
+pdfTeX warning: pdflatex (file ./figures/ch_01/fig_1_35.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+> <./figures/ch_01/fig_1_36.pdf
+
+pdfTeX warning: pdflatex (file ./figures/ch_01/fig_1_36.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>]
+
+LaTeX Warning: Reference `eq:1_77' on page 51 undefined on input line 1590.
+
+
+LaTeX Warning: Reference `sec:1_5' on page 51 undefined on input line 1590.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.93912pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.93912pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
+
+[51]
+
+LaTeX Warning: Reference `eq:1_114' on page 52 undefined on input line 1626.
+
+
+LaTeX Warning: Reference `eq:1_108' on page 52 undefined on input line 1631.
+
+
+LaTeX Warning: Reference `eq:1_15' on page 52 undefined on input line 1650.
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 17.97171pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.97171pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.97171pt}.
+
+[52]
+<figures/ch_01/fig_1_37.pdf, id=608, 157.33997pt x 124.28566pt>
+File: figures/ch_01/fig_1_37.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_37.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_37.pdf  used on input line 1673.
+(pdftex.def)             Requested size: 157.33957pt x 124.28535pt.
+<figures/ch_01/fig_1_38.pdf, id=609, 88.20354pt x 121.97826pt>
+File: figures/ch_01/fig_1_38.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_38.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_38.pdf  used on input line 1681.
+(pdftex.def)             Requested size: 88.20331pt x 121.97795pt.
+
+Overfull \hbox (3.79826pt too wide) in paragraph at lines 1671--1687
+[][]   []
+ []
+
+
+Underfull \vbox (badness 2418) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.93912pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.93912pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
+
+[53]
+
+LaTeX Warning: Reference `fig:1_38' on page 54 undefined on input line 1701.
+
+
+LaTeX Warning: Reference `eq:1_120' on page 54 undefined on input line 1703.
+
+
+LaTeX Warning: Reference `fig:1_39' on page 54 undefined on input line 1703.
+
+
+LaTeX Warning: Reference `fig:1_40' on page 54 undefined on input line 1705.
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 17.97171pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.97171pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.97171pt}.
+
+[54 <./figures/ch_01/fig_1_37.pdf> <./figures/ch_01/fig_1_38.pdf
+
+pdfTeX warning: pdflatex (file ./figures/ch_01/fig_1_38.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>]
+<figures/ch_01/fig_1_39.pdf, id=657, 145.10905pt x 145.10905pt>
+File: figures/ch_01/fig_1_39.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_39.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_39.pdf  used on input line 1716.
+(pdftex.def)             Requested size: 145.10869pt x 145.10869pt.
+<figures/ch_01/fig_1_40.pdf, id=658, 148.8901pt x 141.83714pt>
+File: figures/ch_01/fig_1_40.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_40.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_40.pdf  used on input line 1724.
+(pdftex.def)             Requested size: 148.88972pt x 141.83678pt.
+
+Overfull \hbox (3.79826pt too wide) in paragraph at lines 1714--1730
+[][]   []
+ []
+
+
+LaTeX Warning: Reference `fig:1_41' on page 55 undefined on input line 1734.
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.93912pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.93912pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
+
+[55 <./figures/ch_01/fig_1_39.pdf> <./figures/ch_01/fig_1_40.pdf
+
+pdfTeX warning: pdflatex (file ./figures/ch_01/fig_1_40.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>]
+<figures/ch_01/fig_1_41.pdf, id=668, 33.87836pt x 165.54326pt>
+File: figures/ch_01/fig_1_41.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_41.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_41.pdf  used on input line 1753.
+(pdftex.def)             Requested size: 33.87825pt x 165.54283pt.
+<figures/ch_01/fig_1_42.pdf, id=669, 233.90082pt x 159.85985pt>
+File: figures/ch_01/fig_1_42.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_42.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_42.pdf  used on input line 1761.
+(pdftex.def)             Requested size: 222.2045pt x 151.86598pt.
+
+Overfull \hbox (3.79825pt too wide) in paragraph at lines 1751--1767
+[][]   []
+ []
+
+
+LaTeX Warning: Reference `eq:1_112' on page 56 undefined on input line 1771.
+
+
+LaTeX Warning: Reference `eq:1_122' on page 56 undefined on input line 1773.
+
+
+Underfull \vbox (badness 4518) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 17.97171pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.97171pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.97171pt}.
+
+[56 <./figures/ch_01/fig_1_41.pdf> <./figures/ch_01/fig_1_42.pdf
+
+pdfTeX warning: pdflatex (file ./figures/ch_01/fig_1_42.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>]
+
+LaTeX Warning: Reference `fig:1_43' on page 57 undefined on input line 1778.
+
+
+LaTeX Warning: Reference `eq:1_122' on page 57 undefined on input line 1778.
+
+<figures/ch_01/fig_1_43.pdf, id=726, 140.76082pt x 118.3876pt>
+File: figures/ch_01/fig_1_43.pdf Graphic file (type pdf)
+<use figures/ch_01/fig_1_43.pdf>
+Package pdftex.def Info: figures/ch_01/fig_1_43.pdf  used on input line 1782.
+(pdftex.def)             Requested size: 140.76047pt x 118.38731pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.93912pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.93912pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
+
+[57 <./figures/ch_01/fig_1_43.pdf>]
+
+LaTeX Warning: Reference `eq:1_124' on page 58 undefined on input line 1804.
+
+
+LaTeX Warning: Reference `eq:1_124' on page 58 undefined on input line 1806.
+
+)
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 17.97171pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.97171pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.97171pt}.
+
+[58]
+runsystem(makeindex saveliev_physics_general_course_2.idx)...executed safely (a
+llowed).
+
+ (saveliev_physics_general_course_2.ind)
+<figures/pgc_2_bc.pdf, id=744, 421.10078pt x 597.50786pt>
+File: figures/pgc_2_bc.pdf Graphic file (type pdf)
+<use figures/pgc_2_bc.pdf>
+Package pdftex.def Info: figures/pgc_2_bc.pdf  used on input line 369.
+(pdftex.def)             Requested size: 421.09975pt x 597.5064pt.
+File: figures/pgc_2_bc.pdf Graphic file (type pdf)
+<use figures/pgc_2_bc.pdf>
+Package pdftex.def Info: figures/pgc_2_bc.pdf  used on input line 369.
+(pdftex.def)             Requested size: 421.09975pt x 597.5064pt.
+<figures/pgc_2_bc.pdf, id=747, page=1, 421.10078pt x 597.50786pt>
+File: figures/pgc_2_bc.pdf Graphic file (type pdf)
+<use figures/pgc_2_bc.pdf, page 1>
+Package pdftex.def Info: figures/pgc_2_bc.pdf , page1 used on input line 369.
+(pdftex.def)             Requested size: 421.09975pt x 597.5064pt.
+File: figures/pgc_2_bc.pdf Graphic file (type pdf)
+<use figures/pgc_2_bc.pdf, page 1>
+Package pdftex.def Info: figures/pgc_2_bc.pdf , page1 used on input line 369.
+(pdftex.def)             Requested size: 421.19612pt x 597.64314pt.
+File: figures/pgc_2_bc.pdf Graphic file (type pdf)
+<use figures/pgc_2_bc.pdf, page 1>
+Package pdftex.def Info: figures/pgc_2_bc.pdf , page1 used on input line 369.
+(pdftex.def)             Requested size: 421.19612pt x 597.64314pt.
+File: figures/pgc_2_bc.pdf Graphic file (type pdf)
+<use figures/pgc_2_bc.pdf, page 1>
+Package pdftex.def Info: figures/pgc_2_bc.pdf , page1 used on input line 369.
+(pdftex.def)             Requested size: 421.19612pt x 597.64314pt.
+
+
+File: figures/pgc_2_bc.pdf Graphic file (type pdf)
+<use figures/pgc_2_bc.pdf, page 1>
+Package pdftex.def Info: figures/pgc_2_bc.pdf , page1 used on input line 369.
+(pdftex.def)             Requested size: 421.19612pt x 597.64314pt.
+[59
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <./figures/pgc_2_bc.pdf>] (saveliev_physics_general_course_2.aux)
+ ***********
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-08-16>
+ ***********
+
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 1.36998pt have occurred.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `saveliev_physics_general_course_2.out' ha
+s changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `saveliev_physics_general_course_2.o
+ut':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  7539565CBA40406E21A9A6F7455AD6BA;3551.
+ ) 
+Here is how much of TeX's memory you used:
+ 37647 strings out of 473898
+ 737832 string characters out of 5736295
+ 1943960 words of memory out of 5000000
+ 59334 multiletter control sequences out of 15000+600000
+ 663150 words of font info for 391 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 98i,17n,131p,1544b,1118s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/duy5a/AppData/Roaming/MiKTeX/fonts/type1/public/newtx/NewTXMI.pfb><
+C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Fi
+les/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fo
+nts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmr9.pfb><C:/Users/duy5a/AppData/Roaming/MiKTeX/fonts/type1/publ
+ic/cochineal/cochBMI.pfb><C:/Users/duy5a/AppData/Roaming/MiKTeX/fonts/type1/pub
+lic/cochineal/cochMI.pfb><C:/Users/duy5a/AppData/Roaming/MiKTeX/fonts/type1/pub
+lic/cochineal/cochMRM.pfb><C:/Users/duy5a/AppData/Roaming/MiKTeX/fonts/type1/pu
+blic/newtx/txbsys.pfb><C:/Users/duy5a/AppData/Roaming/MiKTeX/fonts/type1/public
+/newtx/txexs.pfb><C:/Users/duy5a/AppData/Roaming/MiKTeX/fonts/type1/public/newt
+x/txmiaX.pfb><C:/Users/duy5a/AppData/Roaming/MiKTeX/fonts/type1/public/newtx/tx
+sym.pfb><C:/Users/duy5a/AppData/Roaming/MiKTeX/fonts/type1/public/newtx/txsys.p
+fb><C:/Users/duy5a/AppData/Roaming/MiKTeX/fonts/type1/vntex/vnr/vnbx10.pfb><C:/
+Users/duy5a/AppData/Roaming/MiKTeX/fonts/type1/vntex/vnr/vnbx12.pfb><C:/Users/d
+uy5a/AppData/Roaming/MiKTeX/fonts/type1/vntex/vnr/vnr10.pfb><C:/Users/duy5a/App
+Data/Roaming/MiKTeX/fonts/type1/vntex/vnr/vnr12.pfb><C:/Users/duy5a/AppData/Roa
+ming/MiKTeX/fonts/type1/vntex/vnr/vnr17.pfb><C:/Users/duy5a/AppData/Roaming/MiK
+TeX/fonts/type1/vntex/vnr/vnr7.pfb><C:/Users/duy5a/AppData/Roaming/MiKTeX/fonts
+/type1/vntex/vnr/vnr9.pfb><C:/Users/duy5a/AppData/Roaming/MiKTeX/fonts/type1/vn
+tex/vnr/vnti12.pfb>
+Output written on saveliev_physics_general_course_2.pdf (67 pages, 741007 bytes
+).
+PDF statistics:
+ 899 PDF objects out of 1000 (max. 8388607)
+ 251 named destinations out of 1000 (max. 500000)
+ 78097 words of extra memory for PDF output out of 89155 (max. 10000000)
+
