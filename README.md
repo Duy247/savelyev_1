@@ -143,16 +143,11 @@ Bản chất việc compile thành công hay không nằm ở việc công thứ
 //bên trên có gì đấy
         {
             "name": "tectonic",
-            "command": "tectonic",
-            "args": [
-                "--synctex",
-                "--keep-logs",
-                "%DOC%.tex"
-            ],
-            "env": {}
+            "tools": [
+                "tectonic"
+            ]
         }
-    ]
-}
+    ],
 ```
 
 Sửa nó thành
@@ -161,27 +156,17 @@ Sửa nó thành
 //bên trên có gì đấy
         {
             "name": "tectonic",
-            "command": "tectonic",
-            "args": [
-                "--synctex",
-                "--keep-logs",
-                "%DOC%.tex"
-            ],
-            "env": {}
+            "tools": [
+                "tectonic"
+            ]
         },
         {
             "name": "pdflatex",
-            "command": "pdflatex",
-            "args": [
-                "--shell-escape", // if you want to have the shell-escape flag
-                "-synctex=1",
-                "-interaction=nonstopmode",
-                "-file-line-error",
-                "%DOC%.tex"
+            "tools": [
+              "pdflatex"
             ]
         }
-    ]
-}
+    ],
 ```
 
 **Lưu ý dấu phẩy ở `},`**, sau đó lưu bằng tổ hợp `Ctrl+S`
