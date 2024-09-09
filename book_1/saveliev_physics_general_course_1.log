@@ -1,10 +1,13 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.9)  9 SEP 2024 14:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.9)  9 SEP 2024 15:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/duy5a/Downloads/savelyev_1/saveliev_physics_general_course_1.tex
-(c:/Users/duy5a/Downloads/savelyev_1/saveliev_physics_general_course_1.tex
+**c:/Users/duy5a/Downloads/savelyev_1/book_1/saveliev_physics_general_course_1.
+tex
+
+(c:/Users/duy5a/Downloads/savelyev_1/book_1/saveliev_physics_general_course_1.t
+ex
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-16>
 (C:\Program Files\MiKTeX\tex/latex/base\book.cls
@@ -1544,7 +1547,7 @@ Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 ))
-<figures/pgc_1_fc.pdf, id=130, 421.10078pt x 597.50786pt>
+<figures/pgc_1_fc.pdf, id=34, 421.10078pt x 597.50786pt>
 File: figures/pgc_1_fc.pdf Graphic file (type pdf)
 <use figures/pgc_1_fc.pdf>
 Package pdftex.def Info: figures/pgc_1_fc.pdf  used on input line 293.
@@ -1553,7 +1556,7 @@ File: figures/pgc_1_fc.pdf Graphic file (type pdf)
 <use figures/pgc_1_fc.pdf>
 Package pdftex.def Info: figures/pgc_1_fc.pdf  used on input line 293.
 (pdftex.def)             Requested size: 421.09975pt x 597.5064pt.
-<figures/pgc_1_fc.pdf, id=133, page=1, 421.10078pt x 597.50786pt>
+<figures/pgc_1_fc.pdf, id=37, page=1, 421.10078pt x 597.50786pt>
 File: figures/pgc_1_fc.pdf Graphic file (type pdf)
 <use figures/pgc_1_fc.pdf, page 1>
 Package pdftex.def Info: figures/pgc_1_fc.pdf , page1 used on input line 293.
@@ -1609,7 +1612,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 22--24
 
  []
 
-<figures/mirlogo.pdf, id=148, 314.37184pt x 365.51457pt>
+<figures/mirlogo.pdf, id=52, 314.37184pt x 365.51457pt>
 File: figures/mirlogo.pdf Graphic file (type pdf)
 <use figures/mirlogo.pdf>
 Package pdftex.def Info: figures/mirlogo.pdf  used on input line 37.
@@ -1759,20 +1762,7 @@ LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
 (Font)              scaled to size 10.5pt on input line 3.
 LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
 (Font)              scaled to size 7.9pt on input line 3.
-
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[7
-
-
-])
+)
 \tf@toc=\write6
 \openout6 = `saveliev_physics_general_course_1.toc'.
 
@@ -1786,7 +1776,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[8] (00_introduction.tex
+[7
+
+
+]
+
+[8
+
+] (00_introduction.tex
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <5.5> not available
 (Font)              size <5> substituted on input line 12.
@@ -1850,7 +1847,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [1
-
 
 
 ]
@@ -2059,7 +2055,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [12
 
 ]
-<figures/appendix/fig_A_1.pdf, id=297, 177.50015pt x 121.25507pt>
+<figures/appendix/fig_A_1.pdf, id=175, 177.50015pt x 121.25507pt>
 File: figures/appendix/fig_A_1.pdf Graphic file (type pdf)
 <use figures/appendix/fig_A_1.pdf>
 Package pdftex.def Info: figures/appendix/fig_A_1.pdf  used on input line 223.
@@ -2089,7 +2085,7 @@ runsystem(makeindex saveliev_physics_general_course_1.idx)...executed safely (a
 llowed).
 
  (saveliev_physics_general_course_1.ind)
-<figures/pgc_1_bc.pdf, id=329, 421.10078pt x 597.50786pt>
+<figures/pgc_1_bc.pdf, id=206, 421.10078pt x 597.50786pt>
 File: figures/pgc_1_bc.pdf Graphic file (type pdf)
 <use figures/pgc_1_bc.pdf>
 Package pdftex.def Info: figures/pgc_1_bc.pdf  used on input line 350.
@@ -2098,7 +2094,7 @@ File: figures/pgc_1_bc.pdf Graphic file (type pdf)
 <use figures/pgc_1_bc.pdf>
 Package pdftex.def Info: figures/pgc_1_bc.pdf  used on input line 350.
 (pdftex.def)             Requested size: 421.09975pt x 597.5064pt.
-<figures/pgc_1_bc.pdf, id=332, page=1, 421.10078pt x 597.50786pt>
+<figures/pgc_1_bc.pdf, id=209, page=1, 421.10078pt x 597.50786pt>
 File: figures/pgc_1_bc.pdf Graphic file (type pdf)
 <use figures/pgc_1_bc.pdf, page 1>
 Package pdftex.def Info: figures/pgc_1_bc.pdf , page1 used on input line 350.
@@ -2138,152 +2134,38 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package rerunfilecheck Warning: File `saveliev_physics_general_course_1.out' ha
-s changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `saveliev_physics_general_course_1.o
-ut':
-(rerunfilecheck)             Before: 3A0432AD2C869588EA7411845E90F26D;6165
-(rerunfilecheck)             After:  7D0C8E2CDEE99402C2CEDDB31A27DE9E;1033.
+Package rerunfilecheck Info: File `saveliev_physics_general_course_1.out' has n
+ot changed.
+(rerunfilecheck)             Checksum: 7D0C8E2CDEE99402C2CEDDB31A27DE9E;1033.
  ) 
 Here is how much of TeX's memory you used:
- 37772 strings out of 473898
- 756095 string characters out of 5736295
+ 37507 strings out of 473898
+ 753566 string characters out of 5736295
  1959960 words of memory out of 5000000
- 59905 multiletter control sequences out of 15000+600000
+ 59666 multiletter control sequences out of 15000+600000
  626991 words of font info for 181 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 98i,20n,131p,1452b,1098s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-pdfTeX warning (dest): name{figure.caption.43} has been referenced but does not
- exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{appendix*.38} has been referenced but does not exis
-t, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section.2.8} has been referenced but does not exist
-, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section.2.7} has been referenced but does not exist
-, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section.2.6} has been referenced but does not exist
-, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section.2.5} has been referenced but does not exist
-, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section.2.4} has been referenced but does not exist
-, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section.2.3} has been referenced but does not exist
-, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section.2.2} has been referenced but does not exist
-, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section.2.1} has been referenced but does not exist
-, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{chapter.2} has been referenced but does not exist, 
-replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section.1.14} has been referenced but does not exis
-t, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section.1.13} has been referenced but does not exis
-t, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section.1.12} has been referenced but does not exis
-t, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section.1.11} has been referenced but does not exis
-t, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section.1.10} has been referenced but does not exis
-t, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section.1.9} has been referenced but does not exist
-, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section.1.8} has been referenced but does not exist
-, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section.1.7} has been referenced but does not exist
-, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section.1.6} has been referenced but does not exist
-, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section.1.5} has been referenced but does not exist
-, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section.1.4} has been referenced but does not exist
-, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section.1.3} has been referenced but does not exist
-, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section.1.2} has been referenced but does not exist
-, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section.1.1} has been referenced but does not exist
-, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{chapter.1} has been referenced but does not exist, 
-replaced by a fixed one
-
-<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program F
-iles/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/duy5a/AppData/Roa
-ming/MiKTeX/fonts/type1/public/cochineal/cochBMI.pfb><C:/Users/duy5a/AppData/Ro
-aming/MiKTeX/fonts/type1/public/cochineal/cochMI.pfb><C:/Users/duy5a/AppData/Ro
-aming/MiKTeX/fonts/type1/public/newtx/txexs.pfb><C:/Users/duy5a/AppData/Roaming
-/MiKTeX/fonts/type1/public/newtx/txmiaX.pfb><C:/Users/duy5a/AppData/Roaming/MiK
-TeX/fonts/type1/public/newtx/txsys.pfb><C:/Users/duy5a/AppData/Roaming/MiKTeX/f
-onts/type1/vntex/vnr/vnbx10.pfb><C:/Users/duy5a/AppData/Roaming/MiKTeX/fonts/ty
-pe1/vntex/vnr/vnbx12.pfb><C:/Users/duy5a/AppData/Roaming/MiKTeX/fonts/type1/vnt
-ex/vnr/vncsc10.pfb><C:/Users/duy5a/AppData/Roaming/MiKTeX/fonts/type1/vntex/vnr
-/vnr10.pfb><C:/Users/duy5a/AppData/Roaming/MiKTeX/fonts/type1/vntex/vnr/vnr12.p
-fb><C:/Users/duy5a/AppData/Roaming/MiKTeX/fonts/type1/vntex/vnr/vnr17.pfb><C:/U
-sers/duy5a/AppData/Roaming/MiKTeX/fonts/type1/vntex/vnr/vnr7.pfb><C:/Users/duy5
-a/AppData/Roaming/MiKTeX/fonts/type1/vntex/vnr/vnr9.pfb><C:/Users/duy5a/AppData
-/Roaming/MiKTeX/fonts/type1/vntex/vnr/vnti10.pfb><C:/Users/duy5a/AppData/Roamin
-g/MiKTeX/fonts/type1/vntex/vnr/vnti12.pfb>
-Output written on saveliev_physics_general_course_1.pdf (23 pages, 316787 bytes
+ 98i,20n,131p,1459b,1098s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program
+ Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/duy5a/AppData/R
+oaming/MiKTeX/fonts/type1/public/cochineal/cochBMI.pfb><C:/Users/duy5a/AppData/
+Roaming/MiKTeX/fonts/type1/public/cochineal/cochMI.pfb><C:/Users/duy5a/AppData/
+Roaming/MiKTeX/fonts/type1/public/newtx/txexs.pfb><C:/Users/duy5a/AppData/Roami
+ng/MiKTeX/fonts/type1/public/newtx/txmiaX.pfb><C:/Users/duy5a/AppData/Roaming/M
+iKTeX/fonts/type1/public/newtx/txsys.pfb><C:/Users/duy5a/AppData/Roaming/MiKTeX
+/fonts/type1/vntex/vnr/vnbx10.pfb><C:/Users/duy5a/AppData/Roaming/MiKTeX/fonts/
+type1/vntex/vnr/vnbx12.pfb><C:/Users/duy5a/AppData/Roaming/MiKTeX/fonts/type1/v
+ntex/vnr/vncsc10.pfb><C:/Users/duy5a/AppData/Roaming/MiKTeX/fonts/type1/vntex/v
+nr/vnr10.pfb><C:/Users/duy5a/AppData/Roaming/MiKTeX/fonts/type1/vntex/vnr/vnr12
+.pfb><C:/Users/duy5a/AppData/Roaming/MiKTeX/fonts/type1/vntex/vnr/vnr17.pfb><C:
+/Users/duy5a/AppData/Roaming/MiKTeX/fonts/type1/vntex/vnr/vnr7.pfb><C:/Users/du
+y5a/AppData/Roaming/MiKTeX/fonts/type1/vntex/vnr/vnr9.pfb><C:/Users/duy5a/AppDa
+ta/Roaming/MiKTeX/fonts/type1/vntex/vnr/vnti10.pfb><C:/Users/duy5a/AppData/Roam
+ing/MiKTeX/fonts/type1/vntex/vnr/vnti12.pfb>
+Output written on saveliev_physics_general_course_1.pdf (23 pages, 281875 bytes
 ).
 PDF statistics:
- 431 PDF objects out of 1000 (max. 8388607)
- 73 named destinations out of 1000 (max. 500000)
- 311 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 302 PDF objects out of 1000 (max. 8388607)
+ 47 named destinations out of 1000 (max. 500000)
+ 119 words of extra memory for PDF output out of 10000 (max. 10000000)
 
