@@ -103,13 +103,8 @@ Cá nhân `A` - chủ repo muốn bắt đầu thực hiện project.
 
 *Repository này sẽ đóng vai trò là một remote repository, bản chất khác nhau ở một remote repository và repository trên máy tính của người dùng là remote repository sẽ không để thực hiện các thay đổi. Nó sẽ là điểm kết nối chung cho những người tham gia project, một repository chung phản ánh trực tiếp tiến độ của project*
 
-```mermaid
-gitGraph
-        commit id: "Ver 1 : Initial commit"
+![git1](https://i.imgur.com/CBM43lF.png)
 
-
-
-```
 Bây giờ `Ver 1` sẽ chưa có bất kỳ dữ liệu gì, nó là một repository trống, hoặc nếu như `A` đã tích vào lựa chọn tạo file README.md thì bây giờ trong repository sẽ chỉ có README.md
 
 ```cmd
@@ -234,14 +229,8 @@ xpho-project
 	xpho.tex
 ```
 
-```mermaid
-gitGraph
-        commit id: "Ver 1 : Initial commit"
-        commit id: "Ver 2 : Commit số một, thêm xpho.tex"
+![git2](https://i.imgur.com/0IW9xDq.png)
 
-
-
-```
 Tới đây `A` nghĩ ra, chỉ bản thân mình được phép push thẳng lên nhánh chính `main`, còn người khác phải thông qua `A` mới làm được điều này, `A` quyết định cấu hình thêm các bộ luật cho remote repository trên GitHub để làm điều này. 
 
 `A` tiến vào cài đặt của remote repo trên GitHub và vào cài đặt cho nhánh `Branches`
@@ -381,15 +370,9 @@ To https://github.com/QHung247/xpho-project.git
 ```
 
 Sơ đồ Git có dạng bây giờ là
-```mermaid
-gitGraph
-        commit id: "Ver 1 : Initial commit"
-        commit id: "Ver 2 : Commit số một, thêm xpho.tex"
-        branch test
-        checkout test
-        commit id: "Ver 3 : commit to test"
 
-```
+![git3](https://i.imgur.com/D4lxind.png)
+
 Người dùng `B` có thể thấy trên GitHub phiên bản của project `xpho-project` được fork có một nhánh mới là `test`.
 ![test](https://i.imgur.com/eow15ik.png)
 
@@ -407,16 +390,8 @@ Nhận thấy yêu cầu pull request thoả mãn, người dùng `A` chọn Mer
 ![merged](https://i.imgur.com/JWpMVxh.png)
 
 Thay đổi do `B` đóng góp chính thức được thông qua và đưa vào nhánh chính của project `xpho-project`
-```mermaid
-gitGraph
-        commit id: "Ver 1 : Initial commit"
-        commit id: "Ver 2 : Commit số một, thêm xpho.tex"
-        branch test
-        checkout test
-        commit id: "Ver 3 : commit to test"
-		checkout main
-        merge test
-```
+
+![git4](https://i.imgur.com/D4802Ud.png)
 
 ![done](https://i.imgur.com/GCr6XR3.png)
 
@@ -429,4 +404,6 @@ Tuy nhiên, khi `C` cần cập nhật thay đổi của `B`, giả sử như `C
 git pull 
 ```
 Các thay đổi `B` thực hiện và đã merge vào nhánh chính sẽ được cập nhật về thư mục git trên máy tính cá nhân của `C`
+
+`C` tiếp tục làm việc bình thường, khi hoàn thành công việc, lại push lên branch riêng của mình rồi mở pull request.
 
