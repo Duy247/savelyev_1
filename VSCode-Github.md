@@ -348,7 +348,7 @@ Trước khi có thể push và merge vào repo chính của nhóm dịch, trư�
 
 Trong số đó, việc chỉnh sửa file TeX tải từ Overleaf về sẽ được thực hiện với sự hỗ trợ của bước phía [trên](#cài-đặt-extension) trở xuống
 
-- Mở file thư mục chứa toàn bộ file TeX, ở đây, tôi ví dụ cuốn sách số 1 chứa các file TeX từng chương và file TeX chính chứa các code cơ bản để thiết lập file đầu ra. 
+- Mở file thư mục chứa toàn bộ file TeX, ở đây, tôi ví dụ cuốn sách số 1 chứa các file TeX từng chương và file TeX chính chứa các code cơ bản để thiết lập file đầu ra. **Lưu ý, các file này phải là file lưu trên máy tính cá nhân chứ không phải lên các file từ extension Overleaf Workshop.**
 
 ![mainscreen](https://i.imgur.com/trZDS6k.png)
 
