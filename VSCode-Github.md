@@ -230,6 +230,7 @@ Tới đây đã hoàn thành setup VSCode
 ### Clone repository
 
 Để bắt đầu làm việc với repo, người dùng cần tải một phiên bản của nó về máy bằng clone. Clone về cơ bản là một hành động để tạo một bản copy của repository trên máy tính cá nhân của người dùng. 
+Đầu tiên, người dùng cần fork repo này thành một phiên bản mà bản thân có quyền chỉnh sửa tại [đây](https://github.com/Duy247/savelyev_1/fork), tức là thêm `/fork` vào cuối URL của repo
 
 Hiện nay người dùng có thể clone repository bằng Git CLI hoặc Github CLI, tuy người dùng có thể "clone" bằng cách tải repository về thông qua trình duyệt, nhưng dùng phương pháp này không đảm bảo người dùng có thể đóng góp cho dự án về sau do dù sao nếu thiếu các CLI thì cũng không thể làm việc với repo git được.
 
@@ -239,11 +240,11 @@ Clone repository chỉ cần sử dụng 1 dòng lệnh cơ bản
 
 Với Git CLI, lệnh clone repository là 
 ```cmd
-git clone https://github.com/Duy247/savelyev_1
+git clone https://github.com/<username>/savelyev_1
 ```
 Với Github CLI, lệnh clone có khác biệt
 ```cmd
-gh repo clone Duy247/savelyev_1
+gh repo clone <username>/savelyev_1
 ```
 Sau khi repository đã được clone hoàn chỉnh, sử dụng một trình IDE, có thể là Visual Studio Code và mở cả tệp của repository.
 
