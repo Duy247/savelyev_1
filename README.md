@@ -49,7 +49,7 @@ Nhóm dịch của CLB Vật lý xPhO được phân thành các role cụ thể
 - 👨‍🎓 *Tre*
 - 👨‍🎓 *Bạc* aka [*Silverboss*](https://github.com/SilverTD)
 - 👨‍🎓 *Đỗ Nhược* aka [*Drosse Nofiria Regiss*]()
-- 👨‍🎓 *khadang* aka [*Drosse Nofiria Regiss*]()
+- 👨‍🎓 *khadang* 
 
 
 
