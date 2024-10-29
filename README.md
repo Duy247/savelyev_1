@@ -30,7 +30,7 @@ Nhóm dịch của CLB Vật lý xPhO được phân thành các role cụ thể
 
 ### - Bao gồm các thành viên CLB Vật lý xPhO đang theo học THPT, Đại học và Sau tốt nghiệp.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Duy247/savelyev_1/blob/main/org.jpg">
+<img hight="400" width="500" alt="GIF" align="right" src="https://i.imgur.com/Q5VYb5Z.png">
 
 ### Điều hành :
 - 👨‍🎓✨Trưởng nhóm - Quản lý : *Cỏn* aka [*hknguyen__*](https://github.com/Kornnguyn)
